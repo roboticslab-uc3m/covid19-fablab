@@ -1,4 +1,5 @@
 ## Pantallas protectoras entregadas
+
 | Cantidad | Ubicación |
 |---|---|
 | 100 | Hospital Severo Ochoa |
