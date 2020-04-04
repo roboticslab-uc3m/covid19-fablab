@@ -18,20 +18,26 @@ $(document).ready(function() {
 <table id="example" class="display" style="width:100%">
     <thead>
         <tr>
-            <th>Cantidad</th><th>Ubicación</th><th>Fecha</th>
+            <th>Cantidad</th><th>Ubicación</th><th>Fecha</th><th>RRSS</th>
         </tr>
     </thead>
     <tbody>
-        <tr><td>100</td><td>Hospital Severo Ochoa</td>      <td>2020/03/27+29</td></tr>
-        <tr><td>25</td> <td>Protección Civil Leganés</td>   <td>2020/03/31</td></tr>
-        <tr><td>25</td> <td>Residencia Orpea Villanueva de la Cañada</td><td>2020/03/31</td></tr>
-        <tr><td>100</td><td>Hospital Fundación San José</td><td>2020/04/01</td></tr>
-        <tr><td>50</td> <td>Policía Municipal de Leganés</td><td>2020/04/01</td></tr>
-        <tr><td>50</td> <td>Hospital de Campaña Leganés</td><td>2020/04/02</td></tr>
-        <tr><td>30</td> <td>Hospital Ramón y Cajal</td>     <td>2020/04/02</td></tr>
-        <tr><td>12</td> <td>Bomberos Leganés</td>           <td>2020/04/02</td></tr>
-        <tr><td>14</td> <td>Seguridad Universidad</td>       <td>2020/04/02</td></tr>
-        <tr><td>50</td> <td>Hospital de Aranjuez</td>       <td>2020/04/03</td></tr>
+        <tr><td>100</td><td>Hospital Severo Ochoa</td><td>2020/03/27+29</td><td>
+            <a href="https://twitter.com/uc3mRoboticsLab/status/1243642850685997063">[1]</a>
+            <a href="https://twitter.com/uc3mRoboticsLab/status/1244325337829445643">[2]</a>
+        </td></tr>
+        <tr><td>25</td><td>Protección Civil Leganés</td><td>2020/03/31</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1245070018578190337">[1]</a></td></tr>
+        <tr><td>25</td><td>Residencia Orpea Villanueva de la Cañada</td><td>2020/03/31</td><td></td></tr>
+        <tr><td>100</td><td>Hospital Fundación San José</td><td>2020/04/01</td><td>
+            <a href="https://twitter.com/uc3mRoboticsLab/status/1245422540006309889">[1]</a>
+            <a href="https://twitter.com/FISJ_Madrid/status/1246023461287452672">[2]</a>
+        </td></tr>
+        <tr><td>50</td><td>Policía Municipal de Leganés</td><td>2020/04/01</td><td></td></tr>
+        <tr><td>50</td><td>Hospital de Campaña Leganés</td><td>2020/04/02</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1245778047082598402">[1]</a></td></tr>
+        <tr><td>30</td><td>Hospital Ramón y Cajal</td><td>2020/04/02</td><td><a href="https://twitter.com/uc3m_aero/status/1246060229256716288">[1]</a></td></tr>
+        <tr><td>12</td><td>Bomberos Leganés</td><td>2020/04/02</td><td></td></tr>
+        <tr><td>14</td><td>Seguridad Universidad</td><td>2020/04/02</td><td></td></tr>
+        <tr><td>50</td><td>Hospital de Aranjuez</td><td>2020/04/03</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1246415631253213189">[1]</a></td></tr>
 
     </tbody>
 </table>
