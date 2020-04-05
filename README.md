@@ -7,10 +7,20 @@
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.20/api/sum().js"></script>
 
 <script type="text/javascript">
 $(document).ready(function() {
-    $('#example').DataTable({"paging": false, "searching": false, "info": false, "order": [[ 0, "desc" ]]});
+    $('#example').DataTable( {
+        "paging": false,
+        "searching": false,
+        "info": false,
+        "order": [[ 0, "desc" ]],
+        drawCallback: function () {
+            var api = this.api();
+            $( api.table().footer() ).html( "<center><strong>Total: " + api.column( 0, {page:'current'} ).data().sum() + "</strong></center>");
+        }
+    });
 } );
 </script>
 
@@ -40,4 +50,9 @@ $(document).ready(function() {
         <tr><td>72</td><td>Bomberos Leganés</td><td>2020/04/02+04</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1246483385826136065">[1]</a></td></tr>
         <tr><td>22</td><td>Hospital de Fuenlabrada</td><td>2020/04/05</td><td></td></tr>
     </tbody>
+    <tfoot>
+        <tr>
+            <th></th><th></th><th></th><th></th>
+        </tr>
+    </tfoot>
 </table>
