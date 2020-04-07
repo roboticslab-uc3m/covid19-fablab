@@ -51,6 +51,7 @@ $(document).ready(function() {
         <tr><td>22</td><td>Hospital de Fuenlabrada</td><td>2020/04/05</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247469587064590336">[1]</a></td></tr>
         <tr><td>10</td><td>Correos Plaza Salvador Leganés</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
         <tr><td>10</td><td>Farmacia Av. Fuenlabrada Leganés</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
+        <tr><td>15</td><td>Hospital 12 de Octubre</td><td>2020/04/07</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
