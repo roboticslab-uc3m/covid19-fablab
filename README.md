@@ -65,8 +65,6 @@ $(document).ready(function() {
         <tr><td>20</td><td>Residencia Torrijos (Toledo)</td><td>2020/04/07</td><td></td></tr>
         <tr><td>20</td><td>Residencia Talavera (Toledo)</td><td>2020/04/07</td><td></td></tr>
         <tr><td>20</td><td>Residencia Santa Casilda (Toledo)</td><td>2020/04/07</td><td></td></tr>
-
-
     </tbody>
     <tfoot>
         <tr>
