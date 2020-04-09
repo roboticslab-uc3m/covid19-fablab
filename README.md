@@ -32,9 +32,10 @@ $(document).ready(function() {
         </tr>
     </thead>
     <tbody>
-        <tr><td>100</td><td>Hospital Severo Ochoa (Leganés)</td><td>2020/03/27+29</td><td>
+        <tr><td>130</td><td>Hospital Severo Ochoa (Leganés)</td><td>2020/03/27+29 y 2020/04/08</td><td>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1243642850685997063">[1]</a>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1244325337829445643">[2]</a>
+            <a href="https://twitter.com/davidgmato/status/1247866579154604033">[3]</a>
         </td></tr>
         <tr><td>25</td><td>Protección Civil (Leganés)</td><td>2020/03/31</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1245070018578190337">[1]</a></td></tr>
         <tr><td>25</td><td>Residencia Orpea Villanueva de la Cañada</td><td>2020/03/31</td><td></td></tr>
