@@ -61,7 +61,7 @@ $(document).ready(function() {
         <tr><td>10</td><td>Hospital Clinico Universitario San Carlos</td><td>2020/04/07</td><td></td></tr>
 
 
-        <tr><td>120</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/07</td><td></td></tr>
+        <tr><td>120</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/07</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247835218192588800">[1]</a></td></tr>
         <tr><td>20</td><td>Residencia Barber (Toledo)</td><td>2020/04/07</td><td></td></tr>
         <tr><td>20</td><td>Residencia Torrijos (Toledo)</td><td>2020/04/07</td><td></td></tr>
         <tr><td>20</td><td>Residencia Talavera (Toledo)</td><td>2020/04/07</td><td></td></tr>
