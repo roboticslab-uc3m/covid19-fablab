@@ -3,3 +3,5 @@ node_modules
 .bundle
 /Gemfile.lock
 /_site/
+
+.README.md.swp
