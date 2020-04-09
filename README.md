@@ -38,7 +38,7 @@ $(document).ready(function() {
             <a href="https://twitter.com/davidgmato/status/1247866579154604033">[3]</a>
         </td></tr>
         <tr><td>25</td><td>Protección Civil (Leganés)</td><td>2020/03/31</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1245070018578190337">[1]</a></td></tr>
-        <tr><td>25</td><td>Residencia Orpea Villanueva de la Cañada</td><td>2020/03/31</td><td></td></tr>
+        <tr><td>25</td><td>Residencia Orpea (Villanueva de la Cañada)</td><td>2020/03/31</td><td></td></tr>
         <tr><td>100</td><td>Hospital Fundación San José</td><td>2020/04/01</td><td>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1245422540006309889">[1]</a>
             <a href="https://twitter.com/FISJ_Madrid/status/1246023461287452672">[2]</a>
