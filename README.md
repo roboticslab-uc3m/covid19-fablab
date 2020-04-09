@@ -63,12 +63,12 @@ $(document).ready(function() {
 
         <tr><td>120</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/07</td><td>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1247835218192588800">[1]</a>
-            <a href=""https://twitter.com/uc3m_aero/status/1247631158587916290">[2]</a>
+            <a href="https://twitter.com/uc3m_aero/status/1247631158587916290">[2]</a>
         </td></tr>
-        <tr><td>20</td><td>Residencia Barber (Toledo)</td><td>2020/04/07</td><td></td></tr>
-        <tr><td>20</td><td>Residencia Torrijos (Toledo)</td><td>2020/04/07</td><td></td></tr>
-        <tr><td>20</td><td>Residencia Talavera (Toledo)</td><td>2020/04/07</td><td></td></tr>
-        <tr><td>20</td><td>Residencia Santa Casilda (Toledo)</td><td>2020/04/07</td><td></td></tr>
+        <tr><td>20</td><td>Residencia Barber (Toledo)</td><td>2020/04/07</td><td><a href="https://twitter.com/uc3m_aero/status/1247631158587916290">[2]</a></td></tr>
+        <tr><td>20</td><td>Residencia Torrijos (Toledo)</td><td>2020/04/07</td><td><a href="https://twitter.com/uc3m_aero/status/1247631158587916290">[2]</a></td></tr>
+        <tr><td>20</td><td>Residencia Talavera (Toledo)</td><td>2020/04/07</td><td><a href="https://twitter.com/uc3m_aero/status/1247631158587916290">[2]</a></td></tr>
+        <tr><td>20</td><td>Residencia Santa Casilda (Toledo)</td><td>2020/04/07</td><td><a href="https://twitter.com/uc3m_aero/status/1247631158587916290">[2]</a></td></tr>
         <tr><td>20</td><td>Hospital Gregorio Marañón (Rayos)</td><td>2020/04/07</td><td><a href="https://twitter.com/nuria_imeq/status/1247955733926367250">[1]</a></td></tr>
         <tr><td>6</td><td>Farmacia Povedano Del Yerro Jesús (Leganés)</td><td>2020/04/07</td><td></td></tr>
         <tr><td>50</td><td>Sacyr Social (Servicio de Atención a Domicilio del Ayuntamiento, Getafe)</td><td>2020/04/08</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248161731748278273">[1]</a></td></tr>
