@@ -2,7 +2,6 @@
 
 ## Pantallas protectoras entregadas
 
-
 <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
