@@ -32,28 +32,28 @@ $(document).ready(function() {
         </tr>
     </thead>
     <tbody>
-        <tr><td>100</td><td>Hospital Severo Ochoa</td><td>2020/03/27+29</td><td>
+        <tr><td>100</td><td>Hospital Severo Ochoa (Leganés)</td><td>2020/03/27+29</td><td>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1243642850685997063">[1]</a>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1244325337829445643">[2]</a>
         </td></tr>
-        <tr><td>25</td><td>Protección Civil Leganés</td><td>2020/03/31</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1245070018578190337">[1]</a></td></tr>
+        <tr><td>25</td><td>Protección Civil (Leganés)</td><td>2020/03/31</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1245070018578190337">[1]</a></td></tr>
         <tr><td>25</td><td>Residencia Orpea Villanueva de la Cañada</td><td>2020/03/31</td><td></td></tr>
         <tr><td>100</td><td>Hospital Fundación San José</td><td>2020/04/01</td><td>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1245422540006309889">[1]</a>
             <a href="https://twitter.com/FISJ_Madrid/status/1246023461287452672">[2]</a>
         </td></tr>
-        <tr><td>50</td><td>Policía Municipal de Leganés</td><td>2020/04/01</td><td></td></tr>
-        <tr><td>50</td><td>Hospital de Campaña Leganés</td><td>2020/04/02</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1245778047082598402">[1]</a></td></tr>
+        <tr><td>50</td><td>Policía Municipal de (Leganés)</td><td>2020/04/01</td><td></td></tr>
+        <tr><td>50</td><td>Hospital de Campaña (Leganés)</td><td>2020/04/02</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1245778047082598402">[1]</a></td></tr>
         <tr><td>30</td><td>Hospital Ramón y Cajal</td><td>2020/04/02</td><td><a href="https://twitter.com/uc3m_aero/status/1246060229256716288">[1]</a></td></tr>
         <tr><td>14</td><td>Seguridad Universidad</td><td>2020/04/02</td><td></td></tr>
         <tr><td>50</td><td>Hospital de Aranjuez</td><td>2020/04/03</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1246415631253213189">[1]</a></td></tr>
-        <tr><td>72</td><td>Bomberos Leganés</td><td>2020/04/02+04</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1246483385826136065">[1]</a></td></tr>
+        <tr><td>72</td><td>Bomberos (Leganés)</td><td>2020/04/02+04</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1246483385826136065">[1]</a></td></tr>
         <tr><td>52</td><td>Hospital de Fuenlabrada</td><td>2020/04/05+08</td><td>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1247469587064590336">[1]</a>
             <a href="https://twitter.com/nuria_imeq/status/1247245128307179520">[2]</a>
         </td></tr>
-        <tr><td>10</td><td>Correos Plaza Salvador Leganés</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
-        <tr><td>10</td><td>Farmacia Av. Fuenlabrada Leganés</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
+        <tr><td>10</td><td>Correos Plaza Salvador (Leganés)</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
+        <tr><td>10</td><td>Farmacia Av. Fuenlabrada (Leganés)</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
         <tr><td>10</td><td>Hospital Universitario de la Princesa</td><td>2020/04/06</td><td></td></tr>
         <tr><td>15</td><td>Hospital 12 de Octubre</td><td>2020/04/07</td><td></td></tr>
         <tr><td>10</td><td>Residencia Peñuelos Arganzuela</td><td>2020/04/07</td><td></td></tr>
@@ -66,6 +66,7 @@ $(document).ready(function() {
         <tr><td>20</td><td>Residencia Talavera (Toledo)</td><td>2020/04/07</td><td></td></tr>
         <tr><td>20</td><td>Residencia Santa Casilda (Toledo)</td><td>2020/04/07</td><td></td></tr>
         <tr><td>20</td><td>Hospital Gregorio Marañón (Rayos)</td><td>2020/04/07</td><td></td></tr>
+        <tr><td>6</td><td>Farmacia Povedano Del Yerro Jesús (Leganés)</td><td>2020/04/07</td><td></td></tr>
         <tr><td>50</td><td>Sacyr Social (Servicio de Atención a Domicilio del Ayuntamiento, Getafe)</td><td>2020/04/08</td><td></td></tr>
     </tbody>
     <tfoot>
