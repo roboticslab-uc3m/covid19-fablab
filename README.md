@@ -70,7 +70,7 @@ $(document).ready(function() {
         </td></tr>
         <tr><td>10</td><td>Correos Plaza Salvador (Leganés)</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
         <tr><td>10</td><td>Farmacia Av. Fuenlabrada (Leganés)</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
-        <tr><td>10</td><td>Hospital Universitario de la Princesa</td><td>2020/04/06</td><td></td></tr>
+        <tr><td>10</td><td>Hospital Universitario de la Princesa</td><td>2020/04/06</td><td><a href="https://twitter.com/nuria_imeq/status/1248613575817453568">[1]</a></td></tr>
         <tr><td>15</td><td>Hospital Universitario 12 de Octubre</td><td>2020/04/07</td><td></td></tr>
         <tr><td>10</td><td>Residencia Peñuelos Arganzuela</td><td>2020/04/07</td><td></td></tr>
         <tr><td>10</td><td>Hospital Clinico Universitario San Carlos</td><td>2020/04/07</td><td></td></tr>
@@ -107,7 +107,10 @@ $(document).ready(function() {
     </thead>
     <tbody>
         <tr><td>200</td><td>Hospital Universitario Fundación Jiménez Díaz</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
-        <tr><td>125</td><td>Hospital Universitario 12 de Octubre</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
+        <tr><td>125</td><td>Hospital Universitario 12 de Octubre</td><td>2020/04/09</td><td>
+            <a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a>
+            <a href="https://twitter.com/ElenaVA70/status/1248579798571585537">[2]</a>
+        </td></tr>
         <tr><td>100</td><td>Hospital Universitario de Móstoles</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
         <tr><td>25</td><td>Residencia Monte Hermoso</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
         <tr><td>100</td><td>Hospital Clinico San Carlos</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
