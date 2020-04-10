@@ -1,7 +1,5 @@
 # covid19-fablab | uc3m
 
-## Pantallas protectoras entregadas
-
 <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
@@ -21,8 +19,26 @@ $(document).ready(function() {
         }
     });
 } );
+$(document).ready(function() {
+    $('#example2').DataTable( {
+        "paging": false,
+        "searching": false,
+        "info": false,
+        "order": [[ 0, "desc" ]],
+        drawCallback: function () {
+            var api = this.api();
+            $( api.table().footer() ).html( "<center><strong>Total: " + api.column( 0, {page:'current'} ).data().sum() + "</strong></center>");
+        }
+    });
+} );
 </script>
 
+<p></p>
+
+- [Pantallas protectoras entregadas](#pantallas-protectoras-entregadas)
+- [Correas mascarilla entregadas](#correas-mascarilla-entregadas)
+
+## Pantallas protectoras entregadas
 
 <table id="example" class="display" style="width:100%">
     <thead>
@@ -78,3 +94,29 @@ $(document).ready(function() {
         </tr>
     </tfoot>
 </table>
+
+<p></p>
+
+## Correas mascarilla entregadas
+
+<table id="example2" class="display" style="width:100%">
+    <thead>
+        <tr>
+            <th>Cantidad</th><th>Ubicación</th><th>Fecha</th><th>RRSS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>200</td><td>Hospital Universitario Fundación Jiménez Díaz</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
+        <tr><td>120</td><td>Hospital 12 de Octubre</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
+        <tr><td>100</td><td>Hospital Móstoles</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
+        <tr><td>20</td><td>Residencia Carabanchel</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
+        <tr><td>100</td><td>Hospital Clinico San Carlos</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
+        <tr><td>50</td><td>Hospital La Paz</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <th></th><th></th><th></th><th></th>
+        </tr>
+    </tfoot>
+</table>
+
