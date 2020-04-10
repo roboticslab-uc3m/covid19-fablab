@@ -85,6 +85,7 @@ $(document).ready(function() {
         <tr><td>20</td><td>Hospital Gregorio Marañón (Rayos)</td><td>2020/04/07</td><td><a href="https://twitter.com/nuria_imeq/status/1247955733926367250">[1]</a></td></tr>
         <tr><td>6</td><td>Farmacia Povedano Del Yerro Jesús (Leganés)</td><td>2020/04/07</td><td></td></tr>
         <tr><td>50</td><td>Sacyr Social (Servicio de Atención a Domicilio del Ayuntamiento, Getafe)</td><td>2020/04/08</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248161731748278273">[1]</a></td></tr>
+        <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/10</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
@@ -114,6 +115,7 @@ $(document).ready(function() {
         <tr><td>100</td><td>Hospital Clinico San Carlos</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
         <tr><td>100</td><td>Hospital La Paz</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
         <tr><td>100</td><td>Hospital de Getafe</td><td>2020/04/09</td><td></td></tr>
+        <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/10</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
