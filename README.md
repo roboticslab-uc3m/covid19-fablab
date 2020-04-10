@@ -114,7 +114,8 @@ $(document).ready(function() {
         <tr><td>100</td><td>Hospital Universitario de Móstoles</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
         <tr><td>25</td><td>Residencia Monte Hermoso</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
         <tr><td>100</td><td>Hospital Clinico San Carlos</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
-        <tr><td>50</td><td>Hospital La Paz</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
+        <tr><td>100</td><td>Hospital La Paz</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
+        <tr><td>100</td><td>Hospital de Getafe</td><td>2020/04/09</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
