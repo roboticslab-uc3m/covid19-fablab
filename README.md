@@ -74,8 +74,6 @@ $(document).ready(function() {
         <tr><td>15</td><td>Hospital Universitario 12 de Octubre</td><td>2020/04/07</td><td></td></tr>
         <tr><td>10</td><td>Residencia Peñuelos Arganzuela</td><td>2020/04/07</td><td></td></tr>
         <tr><td>10</td><td>Hospital Clinico Universitario San Carlos</td><td>2020/04/07</td><td></td></tr>
-
-
         <tr><td>120</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/07</td><td>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1247835218192588800">[1]</a>
             <a href="https://twitter.com/uc3m_aero/status/1247631158587916290">[2]</a>
