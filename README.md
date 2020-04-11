@@ -107,7 +107,10 @@ $(document).ready(function() {
         </tr>
     </thead>
     <tbody>
-        <tr><td>200</td><td>Hospital Universitario Fundación Jiménez Díaz</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
+        <tr><td>200</td><td>Hospital Universitario Fundación Jiménez Díaz</td><td>2020/04/09</td><td>
+            <a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a>
+            <a href="https://twitter.com/Larryancito/status/1248752387218722816">[2]</a>
+        </td></tr>
         <tr><td>125</td><td>Hospital Universitario 12 de Octubre</td><td>2020/04/09</td><td>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a>
             <a href="https://twitter.com/ElenaVA70/status/1248579798571585537">[2]</a>
