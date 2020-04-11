@@ -118,6 +118,9 @@ $(document).ready(function() {
         <tr><td>100</td><td>Hospital La Paz</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
         <tr><td>100</td><td>Hospital de Getafe</td><td>2020/04/09</td><td></td></tr>
         <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/10</td><td></td></tr>
+        <tr><td>30</td><td>Hospital de Móstoles</td><td>2020/04/10</td><td></td></tr>
+        <tr><td>30</td><td>Hospital Rey Juan Carlos (Móstoles)</td><td>2020/04/10</td><td></td></tr>
+        <tr><td>200</td><td>Hospital Universitario Fundación Alcorcón</td><td>2020/04/10</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
