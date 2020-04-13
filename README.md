@@ -90,6 +90,7 @@ $(document).ready(function() {
         <tr><td>60</td><td>Hospital Universitario Santa Cristina</td><td>2020/04/10</td><td></td></tr>
         <tr><td>25</td><td>Residencia Mayores de Griñon</td><td>2020/04/10</td><td></td></tr>
         <tr><td>25</td><td>Hospital Universitario de Móstoles</td><td>2020/04/12</td><td></td></tr>
+        <tr><td>100</td><td>Universidad Carlos III de Madrid</td><td>2020/04/13</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
