@@ -94,6 +94,7 @@ $(document).ready(function() {
         <tr><td>100</td><td>Universidad Carlos III de Madrid</td><td>2020/04/13</td><td></td></tr>
         <tr><td>15</td><td>Hospital de Móstoles</td><td>2020/04/13</td><td></td></tr>
         <tr><td>100</td><td>Hospital Ramón y Cajal</td><td>2020/04/14</td><td></td></tr>
+        <tr><td>33</td><td>Clece SA</td><td>2020/04/14</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
