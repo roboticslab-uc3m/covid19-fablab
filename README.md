@@ -51,6 +51,7 @@ $(document).ready(function() {
             <a href="https://twitter.com/uc3mRoboticsLab/status/1243642850685997063">[1]</a>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1244325337829445643">[2]</a>
             <a href="https://twitter.com/davidgmato/status/1247866579154604033">[3]</a>
+            <a href="https://twitter.com/nuria_imeq/status/1250047570409336833">[4]</a>
         </td></tr>
         <tr><td>25</td><td>Protección Civil (Leganés)</td><td>2020/03/31</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1245070018578190337">[1]</a></td></tr>
         <tr><td>25</td><td>Residencia Orpea (Villanueva de la Cañada)</td><td>2020/03/31</td><td></td></tr>
@@ -73,7 +74,7 @@ $(document).ready(function() {
         <tr><td>10</td><td>Hospital Universitario de la Princesa</td><td>2020/04/06</td><td><a href="https://twitter.com/nuria_imeq/status/1248613575817453568">[1]</a></td></tr>
         <tr><td>15</td><td>Hospital Universitario 12 de Octubre</td><td>2020/04/07</td><td></td></tr>
         <tr><td>10</td><td>Residencia Peñuelos Arganzuela</td><td>2020/04/07</td><td></td></tr>
-        <tr><td>10</td><td>Hospital Clinico Universitario San Carlos</td><td>2020/04/07</td><td></td></tr>
+        <tr><td>10</td><td>Hospital Clínico Universitario San Carlos</td><td>2020/04/07</td><td><a href="https://twitter.com/nuria_imeq/status/1250047570409336833">[1]</a></td></tr>
         <tr><td>120</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/07</td><td>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1247835218192588800">[1]</a>
             <a href="https://twitter.com/uc3m_aero/status/1247631158587916290">[2]</a>
