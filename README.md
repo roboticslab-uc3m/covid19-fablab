@@ -95,6 +95,7 @@ $(document).ready(function() {
         <tr><td>15</td><td>Hospital de Móstoles</td><td>2020/04/13</td><td></td></tr>
         <tr><td>100</td><td>Hospital Ramón y Cajal</td><td>2020/04/14</td><td><a href="https://twitter.com/nuria_imeq/status/1250547777366523904">[1]</a></td></tr>
         <tr><td>33</td><td>Clece SA</td><td>2020/04/14</td><td></td></tr>
+        <tr><td>100</td><td>Residencias en El Álamo</td><td>2020/04/15</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
