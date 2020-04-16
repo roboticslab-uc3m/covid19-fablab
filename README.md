@@ -137,6 +137,7 @@ $(document).ready(function() {
         <tr><td>100</td><td>Hospital Rey Juan Carlos (Móstoles)</td><td>2020/04/10</td><td></td></tr>
         <tr><td>200</td><td>Hospital Universitario Fundación Alcorcón</td><td>2020/04/10</td><td></td></tr>
         <tr><td>50</td><td>Hospital de Alcorcón</td><td>2020/04/14</td><td></td></tr>
+        <tr><td>250</td><td>Residencia Personas Mayores de Villaviciosa de Odón</td><td>2020/04/15</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
