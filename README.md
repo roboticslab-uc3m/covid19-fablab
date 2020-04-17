@@ -157,6 +157,7 @@ $(document).ready(function() {
         <tr><td>100</td><td>Hospital Universitario Santa Cristina</td><td>2020/04/17</td><td></td></tr>
         <tr><td>100</td><td>Hospital Carlos III</td><td>2020/04/17</td><td></td></tr>
         <tr><td>200</td><td>Hospital Gómez Ulla</td><td>2020/04/17</td><td></td></tr>
+        <tr><td>30</td><td>Residencia Monte Hermoso</td><td>2020/04/17</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
