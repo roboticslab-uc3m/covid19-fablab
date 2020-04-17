@@ -102,6 +102,7 @@ $(document).ready(function() {
         <tr><td>100</td><td>Hospital Ramón y Cajal</td><td>2020/04/14</td><td><a href="https://twitter.com/nuria_imeq/status/1250547777366523904">[1]</a></td></tr>
         <tr><td>33</td><td>Clece SA</td><td>2020/04/14</td><td></td></tr>
         <tr><td>100</td><td>Residencias en El Álamo</td><td>2020/04/15</td><td></td></tr>
+        <tr><td>30</td><td>Centro Salud Arroyomolinos</td><td>2020/04/17</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
@@ -148,6 +149,7 @@ $(document).ready(function() {
         </td></tr>
         <tr><td>50</td><td>Hospital de Alcorcón</td><td>2020/04/14</td><td></td></tr>
         <tr><td>250</td><td>Residencia Personas Mayores de Villaviciosa de Odón</td><td>2020/04/15</td><td></td></tr>
+        <tr><td>40</td><td>Centro Salud Arroyomolinos</td><td>2020/04/17</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
