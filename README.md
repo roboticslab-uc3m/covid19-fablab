@@ -61,7 +61,10 @@ $(document).ready(function() {
         </td></tr>
         <tr><td>50</td><td>Policía Municipal de (Leganés)</td><td>2020/04/01</td><td></td></tr>
         <tr><td>50</td><td>Hospital de Campaña (Leganés)</td><td>2020/04/02</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1245778047082598402">[1]</a></td></tr>
-        <tr><td>130</td><td>Hospital Ramón y Cajal</td><td>2020/04/02+14</td><td><a href="https://twitter.com/uc3m_aero/status/1246060229256716288">[1]</a></td></tr>
+        <tr><td>130</td><td>Hospital Ramón y Cajal</td><td>2020/04/02+14</td><td>
+            <a href="https://twitter.com/uc3m_aero/status/1246060229256716288">[1]</a>
+            <a href="https://twitter.com/uc3mRoboticsLab/status/1250881480739430407">[2]</a>
+        </td></tr>
         <tr><td>14</td><td>Seguridad Universidad</td><td>2020/04/02</td><td></td></tr>
         <tr><td>50</td><td>Hospital de Aranjuez</td><td>2020/04/03</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1246415631253213189">[1]</a></td></tr>
         <tr><td>72</td><td>Bomberos (Leganés)</td><td>2020/04/02+04</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1246483385826136065">[1]</a></td></tr>
@@ -84,11 +87,14 @@ $(document).ready(function() {
         <tr><td>20</td><td>Residencia Talavera (Toledo)</td><td>2020/04/07</td><td><a href="https://twitter.com/uc3m_aero/status/1247631158587916290">[2]</a></td></tr>
         <tr><td>20</td><td>Residencia Santa Casilda (Toledo)</td><td>2020/04/07</td><td><a href="https://twitter.com/uc3m_aero/status/1247631158587916290">[2]</a></td></tr>
         <tr><td>20</td><td>Hospital Gregorio Marañón (Rayos)</td><td>2020/04/07</td><td><a href="https://twitter.com/nuria_imeq/status/1247955733926367250">[1]</a></td></tr>
-        <tr><td>6</td><td>Farmacia Povedano Del Yerro Jesús (Leganés)</td><td>2020/04/07</td><td></td></tr>
+        <tr><td>6</td><td>Farmacia Povedano Del Yerro Jesús (Leganés)</td><td>2020/04/07</td><td><a href="https://twitter.com/davidgmato/status/1250796966021410817">[1]</a></td></tr>
         <tr><td>50</td><td>Sacyr Social (Servicio de Atención a Domicilio del Ayuntamiento, Getafe)</td><td>2020/04/08</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248161731748278273">[1]</a></td></tr>
         <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/10</td><td></td></tr>
         <tr><td>40</td><td>UME</td><td>2020/04/10</td><td><a href="https://twitter.com/nuria_imeq/status/1250547777366523904">[1]</a></td></tr>
-        <tr><td>60</td><td>Hospital Universitario Santa Cristina</td><td>2020/04/10</td><td><a href="https://twitter.com/nuria_imeq/status/1250547777366523904">[1]</a></td></tr>
+        <tr><td>60</td><td>Hospital Universitario Santa Cristina</td><td>2020/04/10</td><td>
+            <a href="https://twitter.com/nuria_imeq/status/1250547777366523904">[1]</a>
+            <a href="https://twitter.com/uc3mRoboticsLab/status/1250753574260412418">[2]</a>
+        </td></tr>
         <tr><td>25</td><td>Residencia Mayores de Griñon</td><td>2020/04/10</td><td></td></tr>
         <tr><td>25</td><td>Hospital Universitario de Móstoles</td><td>2020/04/12</td><td></td></tr>
         <tr><td>100</td><td>Universidad Carlos III de Madrid</td><td>2020/04/13</td><td></td></tr>
