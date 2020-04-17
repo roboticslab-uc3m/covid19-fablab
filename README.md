@@ -91,7 +91,7 @@ $(document).ready(function() {
         <tr><td>50</td><td>Sacyr Social (Servicio de Atención a Domicilio del Ayuntamiento, Getafe)</td><td>2020/04/08</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248161731748278273">[1]</a></td></tr>
         <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/10</td><td></td></tr>
         <tr><td>40</td><td>UME</td><td>2020/04/10</td><td><a href="https://twitter.com/nuria_imeq/status/1250547777366523904">[1]</a></td></tr>
-        <tr><td>60</td><td>Hospital Universitario Santa Cristina</td><td>2020/04/10</td><td>
+        <tr><td>160</td><td>Hospital Universitario Santa Cristina</td><td>2020/04/10+17</td><td>
             <a href="https://twitter.com/nuria_imeq/status/1250547777366523904">[1]</a>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1250753574260412418">[2]</a>
         </td></tr>
@@ -154,6 +154,7 @@ $(document).ready(function() {
         <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/17</td><td></td></tr>
         <tr><td>40</td><td>Centro Salud Arroyomolinos</td><td>2020/04/17</td><td></td></tr>
         <tr><td>25</td><td>Residencia de Usera</td><td>2020/04/17</td><td></td></tr>
+        <tr><td>100</td><td>Hospital Universitario Santa Cristina</td><td>2020/04/17</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
