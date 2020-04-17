@@ -151,6 +151,7 @@ $(document).ready(function() {
         <tr><td>50</td><td>Hospital de Alcorcón</td><td>2020/04/14</td><td></td></tr>
         <tr><td>250</td><td>Residencia Personas Mayores de Villaviciosa de Odón</td><td>2020/04/15</td><td></td></tr>
         <tr><td>40</td><td>Centro Salud Arroyomolinos</td><td>2020/04/17</td><td></td></tr>
+        <tr><td>25</td><td>Residencia de Usera</td><td>2020/04/17</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
