@@ -105,6 +105,7 @@ $(document).ready(function() {
         <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/17</td><td></td></tr>
         <tr><td>30</td><td>Centro Salud Arroyomolinos</td><td>2020/04/17</td><td></td></tr>
         <tr><td>25</td><td>Residencia de Usera</td><td>2020/04/17</td><td></td></tr>
+        <tr><td>100</td><td>Hospital Carlos III</td><td>2020/04/17</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
