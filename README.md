@@ -103,6 +103,7 @@ $(document).ready(function() {
         <tr><td>33</td><td>Clece SA</td><td>2020/04/14</td><td></td></tr>
         <tr><td>100</td><td>Residencias en El Álamo</td><td>2020/04/15</td><td></td></tr>
         <tr><td>30</td><td>Centro Salud Arroyomolinos</td><td>2020/04/17</td><td></td></tr>
+        <tr><td>25</td><td>Residencia de Usera</td><td>2020/04/17</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
