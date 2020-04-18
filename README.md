@@ -105,6 +105,7 @@ $(document).ready(function() {
         <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/17</td><td></td></tr>
         <tr><td>30</td><td>Centro Salud Arroyomolinos</td><td>2020/04/17</td><td></td></tr>
         <tr><td>25</td><td>Residencia de Usera</td><td>2020/04/17</td><td></td></tr>
+        <tr><td>10</td><td>UVI San Martín de Valdeiglesias</td><td>2020/04/17</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
@@ -159,6 +160,7 @@ $(document).ready(function() {
         <tr><td>200</td><td>Hospital Gómez Ulla</td><td>2020/04/17</td><td></td></tr>
         <tr><td>30</td><td>Residencia Monte Hermoso</td><td>2020/04/17</td><td></td></tr>
         <tr><td>100</td><td>Instituto Psiquiátrico José Germain (Leganés)</td><td>2020/04/17</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1251497914653966336">[1]</a></td></tr>
+        <tr><td>30</td><td>UVI 20 San Martín de Valdeiglesias</td><td>2020/04/17</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
