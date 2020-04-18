@@ -158,7 +158,7 @@ $(document).ready(function() {
         <tr><td>100</td><td>Hospital Carlos III</td><td>2020/04/17</td><td></td></tr>
         <tr><td>200</td><td>Hospital Gómez Ulla</td><td>2020/04/17</td><td></td></tr>
         <tr><td>30</td><td>Residencia Monte Hermoso</td><td>2020/04/17</td><td></td></tr>
-        <tr><td>100</td><td>Instituto Psiquiátrico José Germain (Leganés)</td><td>2020/04/17</td><td></td></tr>
+        <tr><td>100</td><td>Instituto Psiquiátrico José Germain (Leganés)</td><td>2020/04/17</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1251497914653966336">[1]</a></td></tr>
     </tbody>
     <tfoot>
         <tr>
