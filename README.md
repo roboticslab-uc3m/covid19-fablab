@@ -113,8 +113,9 @@ $(document).ready(function() {
         <tr><td>30</td><td>IFEMA (Voluntarios)</td><td>2020/04/17</td><td></td></tr>
         <tr><td>30</td><td>Casa Sacerdotal (Toledo)</td><td>2020/04/19</td><td></td></tr>
         <tr><td>11</td><td>Residencia de Mayores Amavir (Arganzuela)</td><td>2020/04/19</td><td></td></tr>
-        <tr><td>5</td><td>Ortopedia Iglesias Hermanos Carabanchel</td><td>2020/04/20</td><td></td></tr>
-        <tr><td>5</td><td>Clínica Dental Atlanta Las Rozas</td><td>2020/04/20</td><td></td></tr>
+        <tr><td>5</td><td>Ortopedia Iglesias Hermanos (Carabanchel)</td><td>2020/04/20</td><td></td></tr>
+        <tr><td>5</td><td>Clínica Dental Atlanta (Las Rozas)</td><td>2020/04/20</td><td></td></tr>
+        <tr><td>5</td><td>Clínica Dental Arco (Villanueva de la Cañada)</td><td>2020/04/20</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
@@ -172,7 +173,8 @@ $(document).ready(function() {
         <tr><td>30</td><td>UVI 20 San Martín de Valdeiglesias</td><td>2020/04/17</td><td></td></tr>
         <tr><td>100</td><td>Hospital Universitario Fundación Jiménez Díaz</td><td>2020/04/19</td><td></td></tr>
         <tr><td>20</td><td>Hospital Puerta de Hierro (Majadahonda)</td><td>2020/04/20</td><td></td></tr>
-        <tr><td>6</td><td>Clínica Dental Atlanta Las Rozas</td><td>2020/04/20</td><td></td></tr>
+        <tr><td>6</td><td>Clínica Dental Atlanta (Las Rozas)</td><td>2020/04/20</td><td></td></tr>
+        <tr><td>6</td><td>Clínica Dental Arco (Villanueva de la Cañada)</td><td>2020/04/20</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
