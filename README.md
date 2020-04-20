@@ -113,6 +113,7 @@ $(document).ready(function() {
         <tr><td>30</td><td>IFEMA (Voluntarios)</td><td>2020/04/17</td><td></td></tr>
         <tr><td>30</td><td>Casa Sacerdotal (Toledo)</td><td>2020/04/19</td><td></td></tr>
         <tr><td>11</td><td>Residencia de Mayores Amavir (Arganzuela)</td><td>2020/04/19</td><td></td></tr>
+        <tr><td>5</td><td>Ortopedia Iglesias Hermanos Carabanchel</td><td>2020/04/20</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
