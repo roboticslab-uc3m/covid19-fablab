@@ -111,6 +111,7 @@ $(document).ready(function() {
         <tr><td>30</td><td>UCI Hospital Fuenlabrada</td><td>2020/04/17</td><td></td></tr>
         <tr><td>15</td><td>Universidad Carlos III de Madrid (Limpieza)</td><td>2020/04/17</td><td></td></tr>
         <tr><td>30</td><td>IFEMA (Voluntarios)</td><td>2020/04/17</td><td></td></tr>
+        <tr><td>30</td><td>Casa Sacerdotal (Toledo)</td><td>2020/04/19</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
