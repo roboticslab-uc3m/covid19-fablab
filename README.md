@@ -116,6 +116,7 @@ $(document).ready(function() {
         <tr><td>5</td><td>Ortopedia Iglesias Hermanos (Carabanchel)</td><td>2020/04/20</td><td></td></tr>
         <tr><td>5</td><td>Clínica Dental Atlanta (Las Rozas)</td><td>2020/04/20</td><td></td></tr>
         <tr><td>5</td><td>Clínica Dental Arco (Villanueva de la Cañada)</td><td>2020/04/20</td><td></td></tr>
+        <tr><td>40</td><td>Residencias Yeles</td><td>2020/04/21</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
