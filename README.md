@@ -157,7 +157,7 @@ $(document).ready(function() {
         <tr><td>30</td><td>Hospital de Móstoles</td><td>2020/04/10</td><td></td></tr>
         <tr><td>100</td><td>Hospital Rey Juan Carlos (Móstoles)</td><td>2020/04/10</td><td></td></tr>
         <tr><td>200</td><td>Hospital Universitario Fundación Alcorcón</td><td>2020/04/10</td><td></td></tr>
-        <tr><td>1200</td><td>Hospital Gregorio Marañón</td><td>2020/04/14+16+17</td><td>
+        <tr><td>2200</td><td>Hospital Gregorio Marañón</td><td>2020/04/14+16+17+21</td><td>
             <a href="https://twitter.com/3d_maranon/status/1250010760014630912">[1]</a>
         </td></tr>
         <tr><td>50</td><td>Hospital de Alcorcón</td><td>2020/04/14</td><td></td></tr>
