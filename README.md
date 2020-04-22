@@ -75,7 +75,7 @@ $(document).ready(function() {
         <tr><td>10</td><td>Correos Plaza Salvador (Leganés)</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
         <tr><td>10</td><td>Farmacia Av. Fuenlabrada (Leganés)</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
         <tr><td>10</td><td>Hospital Universitario de la Princesa</td><td>2020/04/06</td><td><a href="https://twitter.com/nuria_imeq/status/1248613575817453568">[1]</a></td></tr>
-        <tr><td>15</td><td>Hospital Universitario 12 de Octubre</td><td>2020/04/07</td><td></td></tr>
+        <tr><td>18</td><td>Hospital Universitario 12 de Octubre</td><td>2020/04/07+21</td><td></td></tr>
         <tr><td>10</td><td>Residencia Peñuelos Arganzuela</td><td>2020/04/07</td><td></td></tr>
         <tr><td>10</td><td>Hospital Clínico Universitario San Carlos</td><td>2020/04/07</td><td><a href="https://twitter.com/nuria_imeq/status/1250047570409336833">[1]</a></td></tr>
         <tr><td>120</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/07</td><td>
