@@ -177,6 +177,7 @@ $(document).ready(function() {
         <tr><td>20</td><td>Hospital Puerta de Hierro (Majadahonda)</td><td>2020/04/20</td><td></td></tr>
         <tr><td>6</td><td>Clínica Dental Atlanta (Las Rozas)</td><td>2020/04/20</td><td></td></tr>
         <tr><td>6</td><td>Clínica Dental Arco (Villanueva de la Cañada)</td><td>2020/04/20</td><td></td></tr>
+        <tr><td>600</td><td>Hospital de Guadarrama</td><td>2020/04/22</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
