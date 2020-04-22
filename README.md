@@ -95,13 +95,16 @@ $(document).ready(function() {
             <a href="https://twitter.com/nuria_imeq/status/1250547777366523904">[1]</a>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1250753574260412418">[2]</a>
         </td></tr>
-        <tr><td>25</td><td>Residencia Mayores de Griñon</td><td>2020/04/10</td><td></td></tr>
+        <tr><td>25</td><td>Residencia de los Hermanos de la  Salle (Griñón)</td><td>2020/04/10</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1252144599084261376"></a></td></tr>
         <tr><td>25</td><td>Hospital Universitario de Móstoles</td><td>2020/04/12</td><td></td></tr>
         <tr><td>100</td><td>Universidad Carlos III de Madrid</td><td>2020/04/13</td><td></td></tr>
         <tr><td>15</td><td>Hospital de Móstoles</td><td>2020/04/13</td><td></td></tr>
         <tr><td>100</td><td>Hospital Ramón y Cajal</td><td>2020/04/14</td><td><a href="https://twitter.com/nuria_imeq/status/1250547777366523904">[1]</a></td></tr>
         <tr><td>33</td><td>Clece SA</td><td>2020/04/14</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1251438739257204736">[1]</a></td></tr>
-        <tr><td>100</td><td>Residencias en El Álamo</td><td>2020/04/15</td><td></td></tr>
+        <tr><td>25</td><td>Residencia San Juan de Dios (El Álamo)</td><td>2020/04/15</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1252076831873867776">[1]</a></td></tr>
+        <tr><td>25</td><td>Residencia Edad de Oro (El Álamo)</td><td>2020/04/15</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1252218998982422530">[1]</a></td></tr>
+        <tr><td>25</td><td>Residencia Los Jazmines (El Álamo)</td><td>2020/04/15</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1252249521813323778">[1]</a></td></tr>
+        <tr><td>25</td><td>Residencia Benja (El Álamo)</td><td>2020/04/15</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1252312582242930691">[1]</a></td></tr>
         <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/17</td><td></td></tr>
         <tr><td>30</td><td>Centro Salud Arroyomolinos</td><td>2020/04/17</td><td></td></tr>
         <tr><td>25</td><td>Residencia de Usera</td><td>2020/04/17</td><td></td></tr>
