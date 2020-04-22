@@ -95,7 +95,7 @@ $(document).ready(function() {
             <a href="https://twitter.com/nuria_imeq/status/1250547777366523904">[1]</a>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1250753574260412418">[2]</a>
         </td></tr>
-        <tr><td>25</td><td>Residencia de los Hermanos de la  Salle (Griñón)</td><td>2020/04/10</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1252144599084261376"></a></td></tr>
+        <tr><td>25</td><td>Residencia de los Hermanos de la  Salle (Griñón)</td><td>2020/04/10</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1252144599084261376">[1]</a></td></tr>
         <tr><td>25</td><td>Hospital Universitario de Móstoles</td><td>2020/04/12</td><td></td></tr>
         <tr><td>100</td><td>Universidad Carlos III de Madrid</td><td>2020/04/13</td><td></td></tr>
         <tr><td>15</td><td>Hospital de Móstoles</td><td>2020/04/13</td><td></td></tr>
