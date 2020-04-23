@@ -75,7 +75,7 @@ $(document).ready(function() {
         <tr><td>10</td><td>Correos Plaza Salvador (Leganés)</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
         <tr><td>10</td><td>Farmacia Av. Fuenlabrada (Leganés)</td><td>2020/04/06</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1247142950280163333">[1]</a></td></tr>
         <tr><td>10</td><td>Hospital Universitario de la Princesa</td><td>2020/04/06</td><td><a href="https://twitter.com/nuria_imeq/status/1248613575817453568">[1]</a></td></tr>
-        <tr><td>18</td><td>Hospital Universitario 12 de Octubre</td><td>2020/04/07+21</td><td></td></tr>
+        <tr><td>18</td><td>Hospital Universitario 12 de Octubre</td><td>2020/04/07+21</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1253249057499348992">[1]</a></td></tr>
         <tr><td>30</td><td>Residencia Peñuelos Arganzuela</td><td>2020/04/07+23</td><td></td></tr>
         <tr><td>10</td><td>Hospital Clínico Universitario San Carlos</td><td>2020/04/07</td><td><a href="https://twitter.com/nuria_imeq/status/1250047570409336833">[1]</a></td></tr>
         <tr><td>120</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/07</td><td>
@@ -108,7 +108,7 @@ $(document).ready(function() {
         <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/17</td><td></td></tr>
         <tr><td>30</td><td>Centro Salud Arroyomolinos</td><td>2020/04/17</td><td></td></tr>
         <tr><td>25</td><td>Residencia de Usera</td><td>2020/04/17</td><td></td></tr>
-        <tr><td>10</td><td>UVI San Martín de Valdeiglesias</td><td>2020/04/17</td><td></td></tr>
+        <tr><td>10</td><td>UVI San Martín de Valdeiglesias</td><td>2020/04/17</td><td><a href="https://twitter.com/nuria_imeq/status/1253308663927693313">[1]</a></td></tr>
         <tr><td>20</td><td>Bomberos (Leganés)</td><td>2020/04/17</td><td></td></tr>
         <tr><td>10</td><td>Hospital Severo Ochoa (Leganés)</td><td>2020/04/17</td><td></td></tr>
         <tr><td>30</td><td>UCI Hospital Fuenlabrada</td><td>2020/04/17</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1251568352511889408">[1]</a></td></tr>
