@@ -65,7 +65,7 @@ $(document).ready(function() {
             <a href="https://twitter.com/uc3m_aero/status/1246060229256716288">[1]</a>
             <a href="https://twitter.com/uc3mRoboticsLab/status/1250881480739430407">[2]</a>
         </td></tr>
-        <tr><td>14</td><td>Seguridad Universidad</td><td>2020/04/02</td><td></td></tr>
+        <tr><td>18</td><td>Seguridad Universidad</td><td>2020/04/02+23</td><td></td></tr>
         <tr><td>50</td><td>Hospital de Aranjuez</td><td>2020/04/03</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1246415631253213189">[1]</a></td></tr>
         <tr><td>72</td><td>Bomberos (Leganés)</td><td>2020/04/02+04</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1246483385826136065">[1]</a></td></tr>
         <tr><td>52</td><td>Hospital de Fuenlabrada</td><td>2020/04/05+08</td><td>
