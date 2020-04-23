@@ -125,6 +125,7 @@ $(document).ready(function() {
         <tr><td>5</td><td>Thyssenkrupp</td><td>2020/04/23</td><td></td></tr>
         <tr><td>10</td><td>Clínica Dental (Alcorcón)</td><td>2020/04/23</td><td></td></tr>
         <tr><td>25</td><td>Centro Médico Nenufar (Alcorcón)</td><td>2020/04/23</td><td></td></tr>
+        <tr><td>15</td><td>Fisioterapia FisioVital (Getafe)</td><td>2020/04/23</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
