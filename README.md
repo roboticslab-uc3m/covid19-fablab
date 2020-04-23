@@ -123,7 +123,8 @@ $(document).ready(function() {
         <tr><td>2</td><td>Limpieza Calle (Leganés)</td><td>2020/04/21</td><td></td></tr>
         <tr><td>15</td><td>Residencia Ballesol Olavide</td><td>2020/04/23</td><td></td></tr>
         <tr><td>5</td><td>Thyssenkrupp</td><td>2020/04/23</td><td></td></tr>
-        <tr><td>10</td><td>Clínica Dental Alcorcón</td><td>2020/04/23</td><td></td></tr>
+        <tr><td>10</td><td>Clínica Dental (Alcorcón)</td><td>2020/04/23</td><td></td></tr>
+        <tr><td>25</td><td>Centro Médico Nenufar (Alcorcón)</td><td>2020/04/23</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
