@@ -188,7 +188,8 @@ $(document).ready(function() {
         <tr><td>600</td><td>Hospital de Guadarrama</td><td>2020/04/22</td><td></td></tr>
         <tr><td>100</td><td>Residencia Ballesol Olavide</td><td>2020/04/23</td><td></td></tr>
         <tr><td>50</td><td>Residencia Peñuelos Arganzuela</td><td>2020/04/23</td><td></td></tr>
-        <tr><td>10</td><td>Clínica Dental Alcorcón</td><td>2020/04/23</td><td></td></tr>
+        <tr><td>10</td><td>Clínica Dental (Alcorcón)</td><td>2020/04/23</td><td></td></tr>
+        <tr><td>75</td><td>Transade Logística (Valdemoro)</td><td>2020/04/23</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
