@@ -121,6 +121,7 @@ $(document).ready(function() {
         <tr><td>5</td><td>Clínica Dental Arco (Villanueva de la Cañada)</td><td>2020/04/20</td><td></td></tr>
         <tr><td>40</td><td>Residencias Yeles</td><td>2020/04/21</td><td></td></tr>
         <tr><td>2</td><td>Limpieza Calle (Leganés)</td><td>2020/04/21</td><td></td></tr>
+        <tr><td>15</td><td>Residencia Ballesol Olavide</td><td>2020/04/23</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
@@ -181,6 +182,7 @@ $(document).ready(function() {
         <tr><td>6</td><td>Clínica Dental Atlanta (Las Rozas)</td><td>2020/04/20</td><td></td></tr>
         <tr><td>6</td><td>Clínica Dental Arco (Villanueva de la Cañada)</td><td>2020/04/20</td><td></td></tr>
         <tr><td>600</td><td>Hospital de Guadarrama</td><td>2020/04/22</td><td></td></tr>
+        <tr><td>100</td><td>Residencia Ballesol Olavide</td><td>2020/04/23</td><td></td></tr>
     </tbody>
     <tfoot>
         <tr>
