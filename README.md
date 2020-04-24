@@ -183,7 +183,7 @@ $(document).ready(function() {
         <tr><td>100</td><td>Instituto Psiquiátrico José Germain (Leganés)</td><td>2020/04/17</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1251497914653966336">[1]</a></td></tr>
         <tr><td>30</td><td>UVI 20 San Martín de Valdeiglesias</td><td>2020/04/17</td><td></td></tr>
         <tr><td>100</td><td>Hospital Universitario Fundación Jiménez Díaz</td><td>2020/04/19</td><td><a href="https://twitter.com/DrJCornago/status/1252533818449412096">[1]</a></td></tr>
-        <tr><td>20</td><td>Hospital Puerta de Hierro (Majadahonda)</td><td>2020/04/20</td><td></td></tr>
+        <tr><td>20</td><td>Hospital Puerta de Hierro (Majadahonda)</td><td>2020/04/20</td><td><a href="https://twitter.com/davidgmato/status/1253305572012765187">[1]</a></td></tr>
         <tr><td>6</td><td>Clínica Dental Atlanta (Las Rozas)</td><td>2020/04/20</td><td></td></tr>
         <tr><td>6</td><td>Clínica Dental Arco (Villanueva de la Cañada)</td><td>2020/04/20</td><td></td></tr>
         <tr><td>600</td><td>Hospital de Guadarrama</td><td>2020/04/22</td><td></td></tr>
