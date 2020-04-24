@@ -186,7 +186,7 @@ $(document).ready(function() {
         <tr><td>20</td><td>Hospital Puerta de Hierro (Majadahonda)</td><td>2020/04/20</td><td><a href="https://twitter.com/davidgmato/status/1253305572012765187">[1]</a></td></tr>
         <tr><td>6</td><td>Clínica Dental Atlanta (Las Rozas)</td><td>2020/04/20</td><td></td></tr>
         <tr><td>6</td><td>Clínica Dental Arco (Villanueva de la Cañada)</td><td>2020/04/20</td><td></td></tr>
-        <tr><td>600</td><td>Hospital de Guadarrama</td><td>2020/04/22</td><td></td></tr>
+        <tr><td>600</td><td>Hospital de Guadarrama</td><td>2020/04/22</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1253663113976610816">[1]</a></td></tr>
         <tr><td>100</td><td>Residencia Ballesol Olavide</td><td>2020/04/23</td><td></td></tr>
         <tr><td>50</td><td>Residencia Peñuelos Arganzuela</td><td>2020/04/23</td><td></td></tr>
         <tr><td>10</td><td>Clínica Dental (Alcorcón)</td><td>2020/04/23</td><td></td></tr>
