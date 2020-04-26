@@ -96,7 +96,7 @@ $(document).ready(function() {
 | 5 | Ortopedia Iglesias Hermanos (Carabanchel) | 2020/04/20 | |
 | 5 | Clínica Dental Atlanta (Las Rozas) | 2020/04/20 | |
 | 5 | Clínica Dental Arco (Villanueva de la Cañada) | 2020/04/20 | |
-| 40 | Residencias Yeles | 2020/04/21 | |
+| 40 | Residencias Yeles | 2020/04/21 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1253968915446804482) |
 | 2 | Limpieza Calle (Leganés) | 2020/04/21 | |
 | 15 | Residencia Ballesol Olavide | 2020/04/23 | |
 | 5 | Thyssenkrupp | 2020/04/23 | |
