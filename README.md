@@ -8,7 +8,7 @@
 
 <script type="text/javascript">
 $(document).ready(function() {
-    $('#example').DataTable( {
+    $('#pantallas').DataTable( {
         "paging": false,
         "searching": false,
         "info": false,
@@ -20,7 +20,7 @@ $(document).ready(function() {
     });
 } );
 $(document).ready(function() {
-    $('#example2').DataTable( {
+    $('#sujetamask').DataTable( {
         "paging": false,
         "searching": false,
         "info": false,
@@ -41,7 +41,7 @@ $(document).ready(function() {
 
 ## Pantallas protectoras entregadas
 
-{: #example .display}
+{: #pantallas .display}
 | Cantidad | Ubicación | Fecha | RRSS |
 | -------- | --------- | ----- | ---- |
 | 130 | Hospital Severo Ochoa (Leganés) | 2020/03/27+29 y 2020/04/08 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1243642850685997063) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1244325337829445643) [\[3\]](https://twitter.com/davidgmato/status/1247866579154604033) [\[4\]](https://twitter.com/nuria_imeq/status/1250047570409336833) |
@@ -111,7 +111,7 @@ $(document).ready(function() {
 
 ## Correas mascarilla entregadas
 
-{: #example2 .display}
+{: #sujetamask .display}
 | Cantidad | Ubicación | Fecha | RRSS |
 | -------- | --------- | ----- | ---- |
 | 200 | Hospital Universitario Fundación Jiménez Díaz | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) [\[2\]](https://twitter.com/Larryancito/status/1248752387218722816) [\[3\]](https://twitter.com/nuria_imeq/status/1249647590297284608) |
