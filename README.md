@@ -105,6 +105,7 @@ $(document).ready(function() {
 | 15 | Fisioterapia FisioVital (Getafe) | 2020/04/23 | |
 | 200 | Mensajeros de la Paz: Residencia Monserrat Caballe | 2020/04/25 | |
 | 10 | Clínica Dental Cruz | 2020/04/25 | |
+| 20 | Asociación de Mayores (El Álamo) | 2020/04/26 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
