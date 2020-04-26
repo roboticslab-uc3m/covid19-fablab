@@ -111,64 +111,41 @@ $(document).ready(function() {
 
 ## Correas mascarilla entregadas
 
-<table id="example2" class="display" style="width:100%">
-    <thead>
-        <tr>
-            <th>Cantidad</th><th>Ubicación</th><th>Fecha</th><th>RRSS</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>200</td><td>Hospital Universitario Fundación Jiménez Díaz</td><td>2020/04/09</td><td>
-            <a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a>
-            <a href="https://twitter.com/Larryancito/status/1248752387218722816">[2]</a>
-            <a href="https://twitter.com/nuria_imeq/status/1249647590297284608">[3]</a>
-        </td></tr>
-        <tr><td>125</td><td>Hospital Universitario 12 de Octubre</td><td>2020/04/09</td><td>
-            <a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a>
-            <a href="https://twitter.com/ElenaVA70/status/1248579798571585537">[2]</a>
-            <a href="https://twitter.com/davidgmato/status/1248935754329403399">[3]</a>
-        </td></tr>
-        <tr><td>130</td><td>Hospital Universitario de Móstoles</td><td>2020/04/09+12</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
-        <tr><td>25</td><td>Residencia Monte Hermoso</td><td>2020/04/09</td><td>
-            <a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a>
-            <a href="https://twitter.com/natxo88/status/1249746483248857088">[2]</a>
-        </td></tr>
-        <tr><td>100</td><td>Hospital Clinico San Carlos</td><td>2020/04/09</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
-        <tr><td>150</td><td>Hospital La Paz</td><td>2020/04/09+15</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1248304553130328066">[1]</a></td></tr>
-        <tr><td>100</td><td>Hospital de Getafe</td><td>2020/04/09</td><td></td></tr>
-        <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/10</td><td></td></tr>
-        <tr><td>30</td><td>Hospital de Móstoles</td><td>2020/04/10</td><td></td></tr>
-        <tr><td>100</td><td>Hospital Rey Juan Carlos (Móstoles)</td><td>2020/04/10</td><td></td></tr>
-        <tr><td>200</td><td>Hospital Universitario Fundación Alcorcón</td><td>2020/04/10</td><td></td></tr>
-        <tr><td>2200</td><td>Hospital Gregorio Marañón</td><td>2020/04/14+16+17+21</td><td>
-            <a href="https://twitter.com/3d_maranon/status/1250010760014630912">[1]</a>
-            <a href="https://twitter.com/uc3mRoboticsLab/status/1252582760893632513">[2]</a>
-        </td></tr>
-        <tr><td>50</td><td>Hospital de Alcorcón</td><td>2020/04/14</td><td></td></tr>
-        <tr><td>250</td><td>Residencia Personas Mayores de Villaviciosa de Odón</td><td>2020/04/15</td><td></td></tr>
-        <tr><td>100</td><td>Hospital Virgen de la Salud (Toledo)</td><td>2020/04/17</td><td></td></tr>
-        <tr><td>40</td><td>Centro Salud Arroyomolinos</td><td>2020/04/17</td><td></td></tr>
-        <tr><td>25</td><td>Residencia de Usera</td><td>2020/04/17</td><td></td></tr>
-        <tr><td>100</td><td>Hospital Universitario Santa Cristina</td><td>2020/04/17</td><td></td></tr>
-        <tr><td>100</td><td>Hospital Carlos III</td><td>2020/04/17</td><td></td></tr>
-        <tr><td>200</td><td>Hospital Gómez Ulla</td><td>2020/04/17</td><td></td></tr>
-        <tr><td>30</td><td>Residencia Monte Hermoso</td><td>2020/04/17</td><td></td></tr>
-        <tr><td>100</td><td>Instituto Psiquiátrico José Germain (Leganés)</td><td>2020/04/17</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1251497914653966336">[1]</a></td></tr>
-        <tr><td>30</td><td>UVI 20 San Martín de Valdeiglesias</td><td>2020/04/17</td><td></td></tr>
-        <tr><td>100</td><td>Hospital Universitario Fundación Jiménez Díaz</td><td>2020/04/19</td><td><a href="https://twitter.com/DrJCornago/status/1252533818449412096">[1]</a></td></tr>
-        <tr><td>20</td><td>Hospital Puerta de Hierro (Majadahonda)</td><td>2020/04/20</td><td><a href="https://twitter.com/davidgmato/status/1253305572012765187">[1]</a></td></tr>
-        <tr><td>6</td><td>Clínica Dental Atlanta (Las Rozas)</td><td>2020/04/20</td><td></td></tr>
-        <tr><td>6</td><td>Clínica Dental Arco (Villanueva de la Cañada)</td><td>2020/04/20</td><td></td></tr>
-        <tr><td>600</td><td>Hospital de Guadarrama</td><td>2020/04/22</td><td><a href="https://twitter.com/uc3mRoboticsLab/status/1253663113976610816">[1]</a></td></tr>
-        <tr><td>100</td><td>Residencia Ballesol Olavide</td><td>2020/04/23</td><td></td></tr>
-        <tr><td>50</td><td>Residencia Peñuelos Arganzuela</td><td>2020/04/23</td><td></td></tr>
-        <tr><td>10</td><td>Clínica Dental (Alcorcón)</td><td>2020/04/23</td><td></td></tr>
-        <tr><td>75</td><td>Transade Logística (Valdemoro)</td><td>2020/04/23</td><td></td></tr>
-    </tbody>
-    <tfoot>
-        <tr>
-            <th></th><th></th><th></th><th></th>
-        </tr>
-    </tfoot>
-</table>
+{: #example2 .display}
+| Cantidad | Ubicación | Fecha | RRSS  |
+| -------- | --------- | ----- | ---- |
+| 200 | Hospital Universitario Fundación Jiménez Díaz | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) [\[2\]](https://twitter.com/Larryancito/status/1248752387218722816) [\[3\]](https://twitter.com/nuria_imeq/status/1249647590297284608) |
+| 125 | Hospital Universitario 12 de Octubre | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) [\[2\]](https://twitter.com/ElenaVA70/status/1248579798571585537) [\[3\]](https://twitter.com/davidgmato/status/1248935754329403399) |
+| 130 | Hospital Universitario de Móstoles  | 2020/04/09+12 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066)         |
+| 25 | Residencia Monte Hermoso  | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) [\[2\]](https://twitter.com/natxo88/status/1249746483248857088)     |
+| 100 | Hospital Clinico San Carlos  | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066)         |
+| 150 | Hospital La Paz   | 2020/04/09+15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066)         |
+| 100 | Hospital de Getafe   | 2020/04/09 |             |
+| 100 | Hospital Virgen de la Salud (Toledo) | 2020/04/10 |             |
+| 30 | Hospital de Móstoles  | 2020/04/10 |             |
+| 100 | Hospital Rey Juan Carlos (Móstoles)  | 2020/04/10 |             |
+| 200 | Hospital Universitario Fundación Alcorcón | 2020/04/10 |             |
+| 2200 | Hospital Gregorio Marañón  | 2020/04/14+16+17+21 | [\[1\]](https://twitter.com/3d_maranon/status/1250010760014630912) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1252582760893632513)     |
+| 50 | Hospital de Alcorcón  | 2020/04/14 |             |
+| 250 | Residencia Personas Mayores de Villaviciosa de Odón | 2020/04/15 |             |
+| 100 | Hospital Virgen de la Salud (Toledo) | 2020/04/17 |             |
+| 40 | Centro Salud Arroyomolinos  | 2020/04/17 |             |
+| 25 | Residencia de Usera   | 2020/04/17 |             |
+| 100 | Hospital Universitario Santa Cristina | 2020/04/17 |             |
+| 100 | Hospital Carlos III   | 2020/04/17 |             |
+| 200 | Hospital Gómez Ulla   | 2020/04/17 |             |
+| 30 | Residencia Monte Hermoso  | 2020/04/17 |             |
+| 100 | Instituto Psiquiátrico José Germain (Leganés) | 2020/04/17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1251497914653966336)         |
+| 30 | UVI 20 San Martín de Valdeiglesias  | 2020/04/17 |             |
+| 100 | Hospital Universitario Fundación Jiménez Díaz | 2020/04/19 | [\[1\]](https://twitter.com/DrJCornago/status/1252533818449412096)         |
+| 20 | Hospital Puerta de Hierro (Majadahonda) | 2020/04/20 | [\[1\]](https://twitter.com/davidgmato/status/1253305572012765187)         |
+| 6 | Clínica Dental Atlanta (Las Rozas)  | 2020/04/20 |             |
+| 6 | Clínica Dental Arco (Villanueva de la Cañada) | 2020/04/20 |             |
+| 600 | Hospital de Guadarrama  | 2020/04/22 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1253663113976610816)         |
+| 100 | Residencia Ballesol Olavide  | 2020/04/23 |             |
+| 50 | Residencia Peñuelos Arganzuela  | 2020/04/23 |             |
+| 10 | Clínica Dental (Alcorcón)  | 2020/04/23 |             |
+| 75 | Transade Logística (Valdemoro)  | 2020/04/23 |             |
+| ======== | ========= | ===== | ==== |
+|          |           |       |      |
 
