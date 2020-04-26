@@ -104,6 +104,7 @@ $(document).ready(function() {
 | 25 | Centro Médico Nenufar (Alcorcón) | 2020/04/23 | |
 | 15 | Fisioterapia FisioVital (Getafe) | 2020/04/23 | |
 | 200 | Mensajeros de la Paz: Residencia Monserrat Caballe | 2020/04/25 | |
+| 10 | Clínica Dental Cruz | 2020/04/25 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
