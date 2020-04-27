@@ -106,6 +106,7 @@ $(document).ready(function() {
 | 200 | Mensajeros de la Paz: Residencia Monserrat Caballe | 2020/04/25 | |
 | 10 | Clínica Dental Cruz | 2020/04/25 | |
 | 20 | Asociación de Mayores (El Álamo) | 2020/04/26 | |
+| 160 | Ministros Voluntarios | 2020/04/27 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
