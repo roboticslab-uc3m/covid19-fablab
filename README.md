@@ -149,6 +149,7 @@ $(document).ready(function() {
 | 10 | Clínica Dental (Alcorcón) | 2020/04/23 | |
 | 75 | Transade Logística (Valdemoro) | 2020/04/23 | |
 | 200 | Hospital Universitario Fundación Jiménez Díaz | 2020/04/26 | |
+| 500 | Ministros Voluntarios | 2020/04/27 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
