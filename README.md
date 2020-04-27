@@ -127,7 +127,7 @@ $(document).ready(function() {
 | 30 | Hospital de Móstoles | 2020/04/10 | |
 | 100 | Hospital Rey Juan Carlos (Móstoles) | 2020/04/10 | |
 | 200 | Hospital Universitario Fundación Alcorcón | 2020/04/10 | |
-| 2200 | Hospital Gregorio Marañón | 2020/04/14+16+17+21 | [\[1\]](https://twitter.com/3d_maranon/status/1250010760014630912) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1252582760893632513) |
+| 4200 | Hospital Gregorio Marañón | 2020/04/14+16+17+21+27 | [\[1\]](https://twitter.com/3d_maranon/status/1250010760014630912) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1252582760893632513) |
 | 50 | Hospital de Alcorcón | 2020/04/14 | |
 | 250 | Residencia Personas Mayores de Villaviciosa de Odón | 2020/04/15 | |
 | 100 | Hospital Virgen de la Salud (Toledo) | 2020/04/17 | |
