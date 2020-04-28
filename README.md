@@ -123,7 +123,7 @@ $(document).ready(function() {
 | 25 | Residencia Monte Hermoso | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) [\[2\]](https://twitter.com/natxo88/status/1249746483248857088) |
 | 100 | Hospital Clinico San Carlos | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) |
 | 150 | Hospital La Paz | 2020/04/09+15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) |
-| 100 | Hospital de Getafe | 2020/04/09 | |
+| 200 | Hospital de Getafe | 2020/04/09+27 | |
 | 100 | Hospital Virgen de la Salud (Toledo) | 2020/04/10 | |
 | 30 | Hospital de Móstoles | 2020/04/10 | |
 | 100 | Hospital Rey Juan Carlos (Móstoles) | 2020/04/10 | |
@@ -153,4 +153,3 @@ $(document).ready(function() {
 | 500 | Ministros Voluntarios | 2020/04/27 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
-
