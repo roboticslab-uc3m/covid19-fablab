@@ -50,7 +50,7 @@ $(document).ready(function() {
 | 100 | Hospital Fundación San José | 2020/04/01 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1245422540006309889) [\[2\]](https://twitter.com/FISJ_Madrid/status/1246023461287452672) |
 | 50 | Policía Municipal de (Leganés) | 2020/04/01 | |
 | 50 | Hospital de Campaña (Leganés) | 2020/04/02 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1245778047082598402) |
-| 130 | Hospital Ramón y Cajal | 2020/04/02+14 | [\[1\]](https://twitter.com/uc3m_aero/status/1246060229256716288) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1250881480739430407) |
+| 230 | Hospital Ramón y Cajal | 2020/04/02+14 | [\[1\]](https://twitter.com/uc3m_aero/status/1246060229256716288) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1250881480739430407) [\[3\]](https://twitter.com/nuria_imeq/status/1250547777366523904) |
 | 18 | Seguridad Universidad | 2020/04/02+23 | |
 | 50 | Hospital de Aranjuez | 2020/04/03 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1246415631253213189) |
 | 92 | Bomberos (Leganés) | 2020/04/02+04+17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1246483385826136065) |
@@ -76,7 +76,6 @@ $(document).ready(function() {
 | 25 | Hospital Universitario de Móstoles | 2020/04/12 | |
 | 100 | Universidad Carlos III de Madrid | 2020/04/13 | |
 | 15 | Hospital de Móstoles | 2020/04/13 | |
-| 100 | Hospital Ramón y Cajal | 2020/04/14 | [\[1\]](https://twitter.com/nuria_imeq/status/1250547777366523904) |
 | 33 | Clece SA | 2020/04/14 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1251438739257204736) |
 | 25 | Residencia San Juan de Dios (El Álamo) | 2020/04/15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1252076831873867776) |
 | 25 | Residencia Edad de Oro (El Álamo) | 2020/04/15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1252218998982422530) |
