@@ -53,7 +53,7 @@ $(document).ready(function() {
 | 130 | Hospital Ramón y Cajal | 2020/04/02+14 | [\[1\]](https://twitter.com/uc3m_aero/status/1246060229256716288) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1250881480739430407) |
 | 18 | Seguridad Universidad | 2020/04/02+23 | |
 | 50 | Hospital de Aranjuez | 2020/04/03 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1246415631253213189) |
-| 72 | Bomberos (Leganés) | 2020/04/02+04 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1246483385826136065) |
+| 92 | Bomberos (Leganés) | 2020/04/02+04+17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1246483385826136065) |
 | 52 | Hospital de Fuenlabrada | 2020/04/05+08 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247469587064590336) [\[2\]](https://twitter.com/nuria_imeq/status/1247245128307179520) |
 | 10 | Correos Plaza Salvador (Leganés) | 2020/04/06 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247142950280163333) |
 | 10 | Farmacia Av. Fuenlabrada (Leganés) | 2020/04/06 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247142950280163333) |
@@ -86,7 +86,6 @@ $(document).ready(function() {
 | 30 | Centro Salud Arroyomolinos | 2020/04/17 | |
 | 25 | Residencia de Usera | 2020/04/17 | |
 | 10 | UVI San Martín de Valdeiglesias | 2020/04/17 | [\[1\]](https://twitter.com/nuria_imeq/status/1253308663927693313) |
-| 20 | Bomberos (Leganés) | 2020/04/17 | |
 | 10 | Hospital Severo Ochoa (Leganés) | 2020/04/17 | |
 | 30 | UCI Hospital Fuenlabrada | 2020/04/17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1251568352511889408) |
 | 15 | Universidad Carlos III de Madrid (Limpieza) | 2020/04/17 | |
