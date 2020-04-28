@@ -69,7 +69,7 @@ $(document).ready(function() {
 | 20 | Hospital Gregorio Marañón (Rayos) | 2020/04/07 | [\[1\]](https://twitter.com/nuria_imeq/status/1247955733926367250) |
 | 6 | Farmacia Povedano Del Yerro Jesús (Leganés) | 2020/04/07 | [\[1\]](https://twitter.com/davidgmato/status/1250796966021410817) |
 | 50 | Sacyr Social (Servicio de Atención a Domicilio del Ayuntamiento, Getafe) | 2020/04/08 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248161731748278273) |
-| 100 | Hospital Virgen de la Salud (Toledo) | 2020/04/10 | |
+| 200 | Hospital Virgen de la Salud (Toledo) | 2020/04/10+17 | |
 | 40 | UME | 2020/04/10 | [\[1\]](https://twitter.com/nuria_imeq/status/1250547777366523904) |
 | 160 | Hospital Universitario Santa Cristina | 2020/04/10+17 | [\[1\]](https://twitter.com/nuria_imeq/status/1250547777366523904) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1250753574260412418) |
 | 25 | Residencia de los Hermanos de la Salle (Griñón) | 2020/04/10 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1252144599084261376) |
@@ -81,7 +81,6 @@ $(document).ready(function() {
 | 25 | Residencia Edad de Oro (El Álamo) | 2020/04/15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1252218998982422530) |
 | 25 | Residencia Los Jazmines (El Álamo) | 2020/04/15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1252249521813323778) |
 | 25 | Residencia Benja (El Álamo) | 2020/04/15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1252312582242930691) |
-| 100 | Hospital Virgen de la Salud (Toledo) | 2020/04/17 | |
 | 30 | Centro Salud Arroyomolinos | 2020/04/17 | |
 | 25 | Residencia de Usera | 2020/04/17 | |
 | 10 | UVI San Martín de Valdeiglesias | 2020/04/17 | [\[1\]](https://twitter.com/nuria_imeq/status/1253308663927693313) |
