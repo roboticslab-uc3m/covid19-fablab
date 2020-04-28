@@ -135,7 +135,7 @@ $(document).ready(function() {
 | 30 | Residencia Monte Hermoso | 2020/04/17 | |
 | 100 | Instituto Psiquiátrico José Germain (Leganés) | 2020/04/17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1251497914653966336) |
 | 30 | UVI 20 San Martín de Valdeiglesias | 2020/04/17 | |
-| 100 | Hospital Universitario Fundación Jiménez Díaz | 2020/04/19 | [\[1\]](https://twitter.com/DrJCornago/status/1252533818449412096) |
+| 300 | Hospital Universitario Fundación Jiménez Díaz | 2020/04/19+26 | [\[1\]](https://twitter.com/DrJCornago/status/1252533818449412096) |
 | 20 | Hospital Puerta de Hierro (Majadahonda) | 2020/04/20 | [\[1\]](https://twitter.com/davidgmato/status/1253305572012765187) |
 | 6 | Clínica Dental Atlanta (Las Rozas) | 2020/04/20 | |
 | 6 | Clínica Dental Arco (Villanueva de la Cañada) | 2020/04/20 | |
@@ -144,7 +144,6 @@ $(document).ready(function() {
 | 50 | Residencia Peñuelos Arganzuela | 2020/04/23 | |
 | 10 | Clínica Dental (Alcorcón) | 2020/04/23 | |
 | 75 | Transade Logística (Valdemoro) | 2020/04/23 | |
-| 200 | Hospital Universitario Fundación Jiménez Díaz | 2020/04/26 | |
 | 500 | Ministros Voluntarios | 2020/04/27 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
