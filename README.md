@@ -48,7 +48,7 @@ $(document).ready(function() {
 | 25 | Protección Civil (Leganés) | 2020/03/31 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1245070018578190337) |
 | 25 | Residencia Orpea (Villanueva de la Cañada) | 2020/03/31 | |
 | 100 | Hospital Fundación San José | 2020/04/01 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1245422540006309889) [\[2\]](https://twitter.com/FISJ_Madrid/status/1246023461287452672) |
-| 50 | Policía Municipal de (Leganés) | 2020/04/01 | |
+| 50 | Policía Municipal (Leganés) | 2020/04/01 | |
 | 50 | Hospital de Campaña (Leganés) | 2020/04/02 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1245778047082598402) |
 | 230 | Hospital Ramón y Cajal | 2020/04/02+14 | [\[1\]](https://twitter.com/uc3m_aero/status/1246060229256716288) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1250881480739430407) [\[3\]](https://twitter.com/nuria_imeq/status/1250547777366523904) |
 | 18 | Seguridad Universidad | 2020/04/02+23 | |
