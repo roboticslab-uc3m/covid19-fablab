@@ -61,7 +61,7 @@ $(document).ready(function() {
 | 48 | Hospital Universitario 12 de Octubre | 2020/04/07+21 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1253249057499348992) |
 | 30 | Residencia Peñuelos Arganzuela | 2020/04/07+23 | |
 | 10 | Hospital Clínico Universitario San Carlos | 2020/04/07 | [\[1\]](https://twitter.com/nuria_imeq/status/1250047570409336833) |
-| 120 | Hospital Virgen de la Salud (Toledo) | 2020/04/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247835218192588800) [\[2\]](https://twitter.com/uc3m_aero/status/1247631158587916290) |
+| 320 | Hospital Virgen de la Salud (Toledo) | 2020/04/07+10+17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247835218192588800) [\[2\]](https://twitter.com/uc3m_aero/status/1247631158587916290) |
 | 20 | Residencia Barber (Toledo) | 2020/04/07 | [\[2\]](https://twitter.com/uc3m_aero/status/1247631158587916290) |
 | 20 | Residencia Torrijos (Toledo) | 2020/04/07 | [\[2\]](https://twitter.com/uc3m_aero/status/1247631158587916290) |
 | 20 | Residencia Talavera (Toledo) | 2020/04/07 | [\[2\]](https://twitter.com/uc3m_aero/status/1247631158587916290) |
@@ -69,7 +69,6 @@ $(document).ready(function() {
 | 20 | Hospital Gregorio Marañón (Rayos) | 2020/04/07 | [\[1\]](https://twitter.com/nuria_imeq/status/1247955733926367250) |
 | 6 | Farmacia Povedano Del Yerro Jesús (Leganés) | 2020/04/07 | [\[1\]](https://twitter.com/davidgmato/status/1250796966021410817) |
 | 50 | Sacyr Social (Servicio de Atención a Domicilio del Ayuntamiento, Getafe) | 2020/04/08 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248161731748278273) |
-| 200 | Hospital Virgen de la Salud (Toledo) | 2020/04/10+17 | |
 | 40 | UME | 2020/04/10 | [\[1\]](https://twitter.com/nuria_imeq/status/1250547777366523904) |
 | 160 | Hospital Universitario Santa Cristina | 2020/04/10+17 | [\[1\]](https://twitter.com/nuria_imeq/status/1250547777366523904) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1250753574260412418) |
 | 25 | Residencia de los Hermanos de la Salle (Griñón) | 2020/04/10 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1252144599084261376) |
