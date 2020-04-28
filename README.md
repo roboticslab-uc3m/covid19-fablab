@@ -44,7 +44,7 @@ $(document).ready(function() {
 {: #pantallas .display}
 | Cantidad | Ubicación | Fecha | RRSS |
 | -------- | --------- | ----- | ---- |
-| 130 | Hospital Severo Ochoa (Leganés) | 2020/03/27+29 y 2020/04/08 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1243642850685997063) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1244325337829445643) [\[3\]](https://twitter.com/davidgmato/status/1247866579154604033) [\[4\]](https://twitter.com/nuria_imeq/status/1250047570409336833) |
+| 140 | Hospital Severo Ochoa (Leganés) | 2020/03/27+29 y 2020/04/08+17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1243642850685997063) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1244325337829445643) [\[3\]](https://twitter.com/davidgmato/status/1247866579154604033) [\[4\]](https://twitter.com/nuria_imeq/status/1250047570409336833) |
 | 25 | Protección Civil (Leganés) | 2020/03/31 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1245070018578190337) |
 | 25 | Residencia Orpea (Villanueva de la Cañada) | 2020/03/31 | |
 | 100 | Hospital Fundación San José | 2020/04/01 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1245422540006309889) [\[2\]](https://twitter.com/FISJ_Madrid/status/1246023461287452672) |
@@ -85,7 +85,6 @@ $(document).ready(function() {
 | 30 | Centro Salud Arroyomolinos | 2020/04/17 | |
 | 25 | Residencia de Usera | 2020/04/17 | |
 | 10 | UVI San Martín de Valdeiglesias | 2020/04/17 | [\[1\]](https://twitter.com/nuria_imeq/status/1253308663927693313) |
-| 10 | Hospital Severo Ochoa (Leganés) | 2020/04/17 | |
 | 30 | UCI Hospital Fuenlabrada | 2020/04/17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1251568352511889408) |
 | 15 | Universidad Carlos III de Madrid (Limpieza) | 2020/04/17 | |
 | 30 | IFEMA (Voluntarios) | 2020/04/17 | |
