@@ -119,14 +119,13 @@ $(document).ready(function() {
 | 100 | Hospital Clinico San Carlos | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) |
 | 150 | Hospital La Paz | 2020/04/09+15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) |
 | 200 | Hospital de Getafe | 2020/04/09+27 | |
-| 100 | Hospital Virgen de la Salud (Toledo) | 2020/04/10 | |
+| 200 | Hospital Virgen de la Salud (Toledo) | 2020/04/10+17 | |
 | 30 | Hospital de Móstoles | 2020/04/10 | |
 | 100 | Hospital Rey Juan Carlos (Móstoles) | 2020/04/10 | |
 | 200 | Hospital Universitario Fundación Alcorcón | 2020/04/10 | |
 | 4200 | Hospital Gregorio Marañón | 2020/04/14+16+17+21+27 | [\[1\]](https://twitter.com/3d_maranon/status/1250010760014630912) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1252582760893632513) |
 | 50 | Hospital de Alcorcón | 2020/04/14 | |
 | 250 | Residencia Personas Mayores de Villaviciosa de Odón | 2020/04/15 | |
-| 100 | Hospital Virgen de la Salud (Toledo) | 2020/04/17 | |
 | 40 | Centro Salud Arroyomolinos | 2020/04/17 | |
 | 25 | Residencia de Usera | 2020/04/17 | |
 | 100 | Hospital Universitario Santa Cristina | 2020/04/17 | |
