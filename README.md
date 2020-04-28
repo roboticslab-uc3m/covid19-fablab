@@ -115,7 +115,7 @@ $(document).ready(function() {
 | 200 | Hospital Universitario Fundación Jiménez Díaz | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) [\[2\]](https://twitter.com/Larryancito/status/1248752387218722816) [\[3\]](https://twitter.com/nuria_imeq/status/1249647590297284608) |
 | 125 | Hospital Universitario 12 de Octubre | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) [\[2\]](https://twitter.com/ElenaVA70/status/1248579798571585537) [\[3\]](https://twitter.com/davidgmato/status/1248935754329403399) |
 | 130 | Hospital Universitario de Móstoles | 2020/04/09+12 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) |
-| 25 | Residencia Monte Hermoso | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) [\[2\]](https://twitter.com/natxo88/status/1249746483248857088) |
+| 55 | Residencia Monte Hermoso | 2020/04/09+17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) [\[2\]](https://twitter.com/natxo88/status/1249746483248857088) |
 | 100 | Hospital Clinico San Carlos | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) |
 | 150 | Hospital La Paz | 2020/04/09+15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) |
 | 200 | Hospital de Getafe | 2020/04/09+27 | |
@@ -132,7 +132,6 @@ $(document).ready(function() {
 | 100 | Hospital Universitario Santa Cristina | 2020/04/17 | |
 | 100 | Hospital Carlos III | 2020/04/17 | |
 | 200 | Hospital Gómez Ulla | 2020/04/17 | |
-| 30 | Residencia Monte Hermoso | 2020/04/17 | |
 | 100 | Instituto Psiquiátrico José Germain (Leganés) | 2020/04/17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1251497914653966336) |
 | 30 | UVI 20 San Martín de Valdeiglesias | 2020/04/17 | |
 | 300 | Hospital Universitario Fundación Jiménez Díaz | 2020/04/19+26 | [\[1\]](https://twitter.com/DrJCornago/status/1252533818449412096) |
