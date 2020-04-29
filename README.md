@@ -102,6 +102,7 @@ $(document).ready(function() {
 | 10 | Clínica Dental Cruz | 2020/04/25 | |
 | 20 | Asociación de Mayores (El Álamo) | 2020/04/26 | |
 | 160 | Ministros Voluntarios | 2020/04/27 | |
+| 50 | Centro de Salud 2 de Mayo Móstoles | 2020/04/29 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
