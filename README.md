@@ -105,6 +105,7 @@ $(document).ready(function() {
 | 50 | Centro de Salud 2 de Mayo (Móstoles) | 2020/04/29 | |
 | 50 | Clinica Gereátrica Los Ángeles (Getafe) | 2020/04/29 | |
 | 12 | Logopedia y Psicología (Villaverde) | 2020/04/29 | |
+| 10 | Consultorio Médico (Leganés) | 2020/05/01 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
