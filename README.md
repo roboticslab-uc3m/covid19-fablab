@@ -106,6 +106,7 @@ $(document).ready(function() {
 | 50 | Clinica Gereátrica Los Ángeles (Getafe) | 2020/04/29 | |
 | 12 | Logopedia y Psicología (Villaverde) | 2020/04/29 | |
 | 20 | Asociación Amar Dragoste (Leganés) | 2020/04/30 | |
+| 4 | Peluqueria Sandro's (Santa Engracia) | 2020/04/30 | |
 | 10 | Consultorio Médico (Leganés) | 2020/05/01 | [\[1\]](https://twitter.com/nuria_imeq/status/1256270751570833408) |
 | ======== | ========= | ===== | ==== |
 | | | | |
@@ -148,6 +149,7 @@ $(document).ready(function() {
 | 75 | Transade Logística (Valdemoro) | 2020/04/23 | |
 | 500 | Ministros Voluntarios | 2020/04/27 | |
 | 12 | Logopedia y Psicología (Villaverde) | 2020/04/29 | |
+| 8 | Peluqueria Sandro's (Santa Engracia) | 2020/04/30 | |
 | 20 | Asociación Amar Dragoste (Leganés) | 2020/04/30 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
