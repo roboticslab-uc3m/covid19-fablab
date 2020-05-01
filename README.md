@@ -106,7 +106,7 @@ $(document).ready(function() {
 | 50 | Clinica Gereátrica Los Ángeles (Getafe) | 2020/04/29 | |
 | 12 | Logopedia y Psicología (Villaverde) | 2020/04/29 | |
 | 20 | Asociación Amar Dragoste (Leganés) | 2020/04/30 | |
-| 10 | Consultorio Médico (Leganés) | 2020/05/01 | |
+| 10 | Consultorio Médico (Leganés) | 2020/05/01 | [\[1\]](https://twitter.com/nuria_imeq/status/1256270751570833408) |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
