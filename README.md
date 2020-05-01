@@ -104,6 +104,7 @@ $(document).ready(function() {
 | 160 | Ministros Voluntarios | 2020/04/27 | |
 | 50 | Centro de Salud 2 de Mayo (Móstoles) | 2020/04/29 | |
 | 50 | Clinica Gereátrica Los Ángeles (Getafe) | 2020/04/29 | |
+| 12 | Logopedia y Psicología (Villaverde) | 2020/04/29 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
@@ -144,5 +145,6 @@ $(document).ready(function() {
 | 10 | Clínica Dental (Alcorcón) | 2020/04/23 | |
 | 75 | Transade Logística (Valdemoro) | 2020/04/23 | |
 | 500 | Ministros Voluntarios | 2020/04/27 | |
+| 12 | Logopedia y Psicología (Villaverde) | 2020/04/29 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
