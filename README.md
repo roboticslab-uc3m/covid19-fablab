@@ -154,5 +154,6 @@ $(document).ready(function() {
 | 12 | Logopedia y Psicología (Villaverde) | 2020/04/29 | |
 | 8 | Peluqueria Sandro's (Santa Engracia) | 2020/04/30 | |
 | 20 | Asociación Amar Dragoste (Leganés) | 2020/04/30 | |
+| 150 | Residencia San José (Toledo) | 2020/05/03 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
