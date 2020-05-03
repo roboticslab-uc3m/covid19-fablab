@@ -127,7 +127,7 @@ $(document).ready(function() {
 | 100 | Hospital Clinico San Carlos | 2020/04/09 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) |
 | 150 | Hospital La Paz | 2020/04/09+15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1248304553130328066) |
 | 200 | Hospital de Getafe | 2020/04/09+27 | |
-| 200 | Hospital Virgen de la Salud (Toledo) | 2020/04/10+17 | |
+| 450 | Hospital Virgen de la Salud (Toledo) | 2020/04/10+17 y 2020/05/03 | |
 | 30 | Hospital de Móstoles | 2020/04/10 | |
 | 100 | Hospital Rey Juan Carlos (Móstoles) | 2020/04/10 | |
 | 200 | Hospital Universitario Fundación Alcorcón | 2020/04/10 | |
