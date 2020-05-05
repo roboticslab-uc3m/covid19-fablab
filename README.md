@@ -151,7 +151,7 @@ $(document).ready(function() {
 | 100 | Residencia Ballesol Olavide | 2020/04/23 | |
 | 50 | Residencia Peñuelos Arganzuela | 2020/04/23 | |
 | 10 | Clínica Dental (Alcorcón) | 2020/04/23 | |
-| 75 | Transade Logística (Valdemoro) | 2020/04/23 | |
+| 75 | Transade Logística (Valdemoro) | 2020/04/23 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1255750449644388354) |
 | 500 | Ministros Voluntarios | 2020/04/27 | |
 | 12 | Logopedia y Psicología (Villaverde) | 2020/04/29 | |
 | 8 | Peluqueria Sandro's (Santa Engracia) | 2020/04/30 | |
