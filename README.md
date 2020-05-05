@@ -107,7 +107,7 @@ $(document).ready(function() {
 | 50 | Clinica Gereátrica Los Ángeles (Getafe) | 2020/04/29 | [[1]](https://twitter.com/nuria_imeq/status/1255545803797671937) |
 | 12 | Logopedia y Psicología (Villaverde) | 2020/04/29 | |
 | 20 | Asociación Amar Dragoste (Leganés) | 2020/04/30 | |
-| 4 | Peluqueria Sandro's (Santa Engracia) | 2020/04/30 | |
+| 4 | Peluqueria Sandro's (Santa Engracia) | 2020/04/30 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1256502570723524609) |
 | 10 | Consultorio Médico (Leganés) | 2020/05/01 | [\[1\]](https://twitter.com/nuria_imeq/status/1256270751570833408) |
 | 100 | Residencia Infantil Isabel de Castilla | 2020/05/03 | |
 | 20 | Residencia San José (Toledo) | 2020/05/03 | |
@@ -154,7 +154,7 @@ $(document).ready(function() {
 | 75 | Transade Logística (Valdemoro) | 2020/04/23 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1255750449644388354) |
 | 500 | Ministros Voluntarios | 2020/04/27 | |
 | 12 | Logopedia y Psicología (Villaverde) | 2020/04/29 | |
-| 8 | Peluqueria Sandro's (Santa Engracia) | 2020/04/30 | |
+| 8 | Peluqueria Sandro's (Santa Engracia) | 2020/04/30 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1256502570723524609) |
 | 20 | Asociación Amar Dragoste (Leganés) | 2020/04/30 | |
 | 150 | Residencia San José (Toledo) | 2020/05/03 | |
 | 5 | Clínica Fisioterapia Charcot (Parla) | 2020/05/04 | |
