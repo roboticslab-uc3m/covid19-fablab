@@ -112,6 +112,7 @@ $(document).ready(function() {
 | 100 | Residencia Infantil Isabel de Castilla | 2020/05/03 | |
 | 20 | Residencia San José (Toledo) | 2020/05/03 | |
 | 20 | Cáritas (Getafe) | 2020/05/04 | |
+| 5 | Clínica Fisioterapia Charcot (Parla) | 2020/05/04 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
