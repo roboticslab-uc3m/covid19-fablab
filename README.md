@@ -58,7 +58,7 @@ $(document).ready(function() {
 | 10 | Correos Plaza Salvador (Leganés) | 2020/04/06 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247142950280163333) |
 | 10 | Farmacia Av. Fuenlabrada (Leganés) | 2020/04/06 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247142950280163333) |
 | 10 | Hospital Universitario de la Princesa | 2020/04/06 | [\[1\]](https://twitter.com/nuria_imeq/status/1248613575817453568) |
-| 48 | Hospital Universitario 12 de Octubre | 2020/04/07+21 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1253249057499348992) |
+| 53 | Hospital Universitario 12 de Octubre | 2020/04/07+21 y 2020/05/05 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1253249057499348992) |
 | 30 | Residencia Peñuelos Arganzuela | 2020/04/07+23 | |
 | 10 | Hospital Clínico Universitario San Carlos | 2020/04/07 | [\[1\]](https://twitter.com/nuria_imeq/status/1250047570409336833) |
 | 420 | Hospital Virgen de la Salud (Toledo) | 2020/04/07+10+17 y 2020/05/03 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247835218192588800) [\[2\]](https://twitter.com/uc3m_aero/status/1247631158587916290) |
