@@ -54,7 +54,7 @@ $(document).ready(function() {
 | 18 | Seguridad Universidad | 2020/04/02+23 | |
 | 50 | Hospital de Aranjuez | 2020/04/03 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1246415631253213189) |
 | 92 | Bomberos (Leganés) | 2020/04/02+04+17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1246483385826136065) |
-| 52 | Hospital de Fuenlabrada | 2020/04/05+08 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247469587064590336) [\[2\]](https://twitter.com/nuria_imeq/status/1247245128307179520) |
+| 52 | Hospital de Fuenlabrada | 2020/04/05+08 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247469587064590336) [\[2\]](https://twitter.com/nuria_imeq/status/1247245128307179520) [\[3\]](https://twitter.com/JPozuelo69/status/1255458850951569419) |
 | 10 | Correos Plaza Salvador (Leganés) | 2020/04/06 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247142950280163333) |
 | 10 | Farmacia Av. Fuenlabrada (Leganés) | 2020/04/06 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1247142950280163333) |
 | 10 | Hospital Universitario de la Princesa | 2020/04/06 | [\[1\]](https://twitter.com/nuria_imeq/status/1248613575817453568) |
