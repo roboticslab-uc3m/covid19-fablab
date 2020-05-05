@@ -104,7 +104,7 @@ $(document).ready(function() {
 | 160 | Ministros Voluntarios | 2020/04/27 | |
 | 25 | Servicio de correos (Granada) | 2020/04/29 | |
 | 50 | Centro de Salud 2 de Mayo (Móstoles) | 2020/04/29 | |
-| 50 | Clinica Gereátrica Los Ángeles (Getafe) | 2020/04/29 | |
+| 50 | Clinica Gereátrica Los Ángeles (Getafe) | 2020/04/29 | [[1]](https://twitter.com/nuria_imeq/status/1255545803797671937) |
 | 12 | Logopedia y Psicología (Villaverde) | 2020/04/29 | |
 | 20 | Asociación Amar Dragoste (Leganés) | 2020/04/30 | |
 | 4 | Peluqueria Sandro's (Santa Engracia) | 2020/04/30 | |
