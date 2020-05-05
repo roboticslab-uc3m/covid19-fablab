@@ -82,7 +82,7 @@ $(document).ready(function() {
 | 25 | Residencia Benja (El Álamo) | 2020/04/15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1252312582242930691) |
 | 30 | Centro Salud Arroyomolinos | 2020/04/17 | |
 | 25 | Residencia de Usera | 2020/04/17 | |
-| 10 | UVI San Martín de Valdeiglesias | 2020/04/17 | [\[1\]](https://twitter.com/nuria_imeq/status/1253308663927693313) |
+| 26 | UVI 20 (San Martín de Valdeiglesias) | 2020/04/17 | [\[1\]](https://twitter.com/nuria_imeq/status/1253308663927693313) |
 | 30 | UCI Hospital Fuenlabrada | 2020/04/17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1251568352511889408) |
 | 15 | Universidad Carlos III de Madrid (Limpieza) | 2020/04/17 | |
 | 30 | IFEMA (Voluntarios) | 2020/04/17 | |
@@ -143,7 +143,7 @@ $(document).ready(function() {
 | 100 | Hospital Carlos III | 2020/04/17 | |
 | 200 | Hospital Gómez Ulla | 2020/04/17 | |
 | 100 | Instituto Psiquiátrico José Germain (Leganés) | 2020/04/17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1251497914653966336) |
-| 30 | UVI 20 San Martín de Valdeiglesias | 2020/04/17 | |
+| 30 | UVI 20 (San Martín de Valdeiglesias) | 2020/04/17 | |
 | 20 | Hospital Puerta de Hierro (Majadahonda) | 2020/04/20 | [\[1\]](https://twitter.com/davidgmato/status/1253305572012765187) |
 | 6 | Clínica Dental Atlanta (Las Rozas) | 2020/04/20 | |
 | 6 | Clínica Dental Arco (Villanueva de la Cañada) | 2020/04/20 | |
