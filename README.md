@@ -93,7 +93,7 @@ $(document).ready(function() {
 | 5 | Clínica Dental Arco (Villanueva de la Cañada) | 2020/04/20 | |
 | 40 | Residencias Yeles | 2020/04/21 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1253968915446804482) |
 | 2 | Limpieza Calle (Leganés) | 2020/04/21 | |
-| 15 | Residencia Ballesol Olavide | 2020/04/23 | |
+| 15 | Residencia Ballesol Olavide | 2020/04/23 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1255540832498843649) |
 | 5 | Thyssenkrupp | 2020/04/23 | |
 | 10 | Clínica Dental (Alcorcón) | 2020/04/23 | |
 | 25 | Centro Médico Nenufar (Alcorcón) | 2020/04/23 | |
