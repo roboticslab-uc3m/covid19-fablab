@@ -109,9 +109,9 @@ $(document).ready(function() {
 | 20 | Asociación Amar Dragoste (Leganés) | 2020/04/30 | |
 | 4 | Peluqueria Sandro's (Santa Engracia) | 2020/04/30 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1256502570723524609) |
 | 10 | Consultorio Médico (Leganés) | 2020/05/01 | [\[1\]](https://twitter.com/nuria_imeq/status/1256270751570833408) |
-| 100 | Residencia Infantil Isabel de Castilla | 2020/05/03 | |
+| 100 | Residencia Infantil Isabel de Castilla | 2020/05/03 | [\[1\]](https://twitter.com/nuria_imeq/status/1256899267802927104) |
 | 20 | Residencia San José (Toledo) | 2020/05/03 | |
-| 20 | Cáritas (Getafe) | 2020/05/04 | [\[1\]](https://twitter.com/nuria_imeq/status/1256899276174700544) |
+| 20 | Cáritas (Getafe) | 2020/05/04 | [\[1\]](1256899276174700544) |
 | 5 | Clínica Fisioterapia Charcot (Parla) | 2020/05/04 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
