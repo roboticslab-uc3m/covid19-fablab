@@ -148,7 +148,7 @@ $(document).ready(function() {
 | 6 | Clínica Dental Atlanta (Las Rozas) | 2020/04/20 | |
 | 6 | Clínica Dental Arco (Villanueva de la Cañada) | 2020/04/20 | |
 | 600 | Hospital de Guadarrama | 2020/04/22 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1253663113976610816) |
-| 100 | Residencia Ballesol Olavide | 2020/04/23 | |
+| 100 | Residencia Ballesol Olavide | 2020/04/23 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1255540832498843649) |
 | 50 | Residencia Peñuelos Arganzuela | 2020/04/23 | |
 | 10 | Clínica Dental (Alcorcón) | 2020/04/23 | |
 | 75 | Transade Logística (Valdemoro) | 2020/04/23 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1255750449644388354) |
