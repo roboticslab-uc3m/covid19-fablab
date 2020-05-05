@@ -111,6 +111,7 @@ $(document).ready(function() {
 | 10 | Consultorio Médico (Leganés) | 2020/05/01 | [\[1\]](https://twitter.com/nuria_imeq/status/1256270751570833408) |
 | 100 | Residencia Infantil Isabel de Castilla | 2020/05/03 | |
 | 20 | Residencia San José (Toledo) | 2020/05/03 | |
+| 20 | Cáritas (Getafe) | 2020/05/04 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
