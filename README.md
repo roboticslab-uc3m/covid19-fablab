@@ -83,7 +83,7 @@ $(document).ready(function() {
 | 30 | Centro Salud Arroyomolinos | 2020/04/17 | |
 | 25 | Residencia de Usera | 2020/04/17 | |
 | 26 | UVI 20 (San Martín de Valdeiglesias) | 2020/04/17 | [\[1\]](https://twitter.com/nuria_imeq/status/1253308663927693313) |
-| 30 | UCI Hospital Fuenlabrada | 2020/04/17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1251568352511889408) |
+| 30 | Hospital Fuenlabrada (UCI) | 2020/04/17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1251568352511889408) |
 | 15 | Universidad Carlos III de Madrid (Limpieza) | 2020/04/17 | |
 | 30 | IFEMA (Voluntarios) | 2020/04/17 | |
 | 30 | Casa Sacerdotal (Toledo) | 2020/04/19 | |
