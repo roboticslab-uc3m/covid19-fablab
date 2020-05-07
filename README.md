@@ -117,6 +117,7 @@ $(document).ready(function() {
 | 10 | Ortopedia Orthosport (Valdemoro) | 2020/05/07 | |
 | 20 | Oficina Patentes y Marcas (P. Castellana) | 2020/05/07 | |
 | 10 | Clínica Salud Natura | 2020/05/07 | |
+| 6 | Local familiar alimentación (Navahermosa, Toledo) | 2020/05/07 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
