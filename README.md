@@ -113,6 +113,7 @@ $(document).ready(function() {
 | 20 | Residencia San José (Toledo) | 2020/05/03 | |
 | 20 | Cáritas (Getafe) | 2020/05/04 | [\[1\]](https://twitter.com/nuria_imeq/status/1256899276174700544) |
 | 5 | Clínica Fisioterapia Charcot (Parla) | 2020/05/04 | |
+| 20 | Trabajadores de limpieza y desinfección | 2020/05/07 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
