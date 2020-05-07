@@ -162,5 +162,6 @@ $(document).ready(function() {
 | 20 | Asociación Amar Dragoste (Leganés) | 2020/04/30 | |
 | 150 | Residencia San José (Toledo) | 2020/05/03 | |
 | 5 | Clínica Fisioterapia Charcot (Parla) | 2020/05/04 | |
+| 150 | HM Sanchinarro | 2020/05/07 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
