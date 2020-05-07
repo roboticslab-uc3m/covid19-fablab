@@ -115,6 +115,7 @@ $(document).ready(function() {
 | 5 | Clínica Fisioterapia Charcot (Parla) | 2020/05/04 | |
 | 20 | Trabajadores de limpieza y desinfección | 2020/05/07 | |
 | 10 | Ortopedia Orthosport (Valdemoro) | 2020/05/07 | |
+| 20 | Oficina Patentes y Marcas (P. Castellana) | 2020/05/07 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
