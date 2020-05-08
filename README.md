@@ -118,7 +118,7 @@ $(document).ready(function() {
 | 20 | Oficina Patentes y Marcas (P. Castellana) | 2020/05/07 | |
 | 10 | Clínica Salud Natura | 2020/05/07 | |
 | 6 | Local familiar alimentación (Navahermosa, Toledo) | 2020/05/07 | |
-| 8 | Ultramarinos (Leganés) | 2020/05/07 | |
+| 8 | Ultramarinos (Leganés) | 2020/05/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1258369044710817793) |
 | 4 | Pastelería (Leganés) | 2020/05/07 | |
 | 6 | Quiosco (Leganés) | 2020/05/07 | |
 | 3 | Clínica pediátrica (Leganés) | 2020/05/07 | |
