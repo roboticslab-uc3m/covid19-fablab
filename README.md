@@ -127,6 +127,7 @@ $(document).ready(function() {
 | 1 | Tienda pinturas (Leganés) | 2020/05/07 | |
 | 50 | Escuela Infantil | 2020/05/07 | |
 | 10 | Clínica Dental Cantero | 2020/05/08 | |
+| 20 | Hospital de Getafe | 2020/05/08 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
