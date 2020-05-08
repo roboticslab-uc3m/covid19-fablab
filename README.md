@@ -175,5 +175,6 @@ $(document).ready(function() {
 | 150 | Residencia San José (Toledo) | 2020/05/03 | |
 | 5 | Clínica Fisioterapia Charcot (Parla) | 2020/05/04 | |
 | 150 | HM Sanchinarro | 2020/05/07 | |
+| 20 | Hospital de Getafe | 2020/05/08 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
