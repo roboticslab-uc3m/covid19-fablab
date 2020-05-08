@@ -125,6 +125,7 @@ $(document).ready(function() {
 | 1 | Pollería (Leganés) | 2020/05/07 | |
 | 2 | Floristería (Leganés) | 2020/05/07 | |
 | 1 | Tienda pinturas (Leganés) | 2020/05/07 | |
+| 10 | Clínica Dental Cantero | 2020/05/08 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
