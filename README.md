@@ -118,13 +118,14 @@ $(document).ready(function() {
 | 20 | Oficina Patentes y Marcas (P. Castellana) | 2020/05/07 | |
 | 10 | Clínica Salud Natura | 2020/05/07 | |
 | 6 | Local familiar alimentación (Navahermosa, Toledo) | 2020/05/07 | |
-| 8 | Ultramarinos (Leganés) | 2020/05/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1258369044710817793) |
-| 4 | Pastelería (Leganés) | 2020/05/07 | |
-| 6 | Quiosco (Leganés) | 2020/05/07 | |
-| 3 | Clínica pediátrica (Leganés) | 2020/05/07 | |
-| 1 | Pollería (Leganés) | 2020/05/07 | |
-| 2 | Floristería (Leganés) | 2020/05/07 | |
-| 1 | Tienda pinturas (Leganés) | 2020/05/07 | |
+| 8 | Ultramarinos (Leganés) | 2020/05/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1258369044710817793) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1258451788405133312) |
+| 4 | Pastelería (Leganés) | 2020/05/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1257754436602155009) |
+| 6 | Quiosco (Leganés) | 2020/05/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1258451788405133312) |
+| 3 | Clínica pediátrica (Leganés) | 2020/05/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1258451788405133312) |
+| 1 | Pollería (Leganés) | 2020/05/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1258451788405133312) |
+| 2 | Floristería (Leganés) | 2020/05/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1258451788405133312) |
+| 1 | Tienda pinturas (Leganés) | 2020/05/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1258451788405133312) |
+| 1 | Trabajadora social (Leganés) | 2020/05/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1258451788405133312) |
 | 50 | Escuela Infantil | 2020/05/07 | |
 | 10 | Clínica Dental Cantero | 2020/05/08 | |
 | 20 | Hospital de Getafe | 2020/05/08 | |
