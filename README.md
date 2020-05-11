@@ -80,7 +80,7 @@ $(document).ready(function() {
 | 25 | Residencia Edad de Oro (El Álamo) | 2020/04/15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1252218998982422530) |
 | 25 | Residencia Los Jazmines (El Álamo) | 2020/04/15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1252249521813323778) |
 | 25 | Residencia Benja (El Álamo) | 2020/04/15 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1252312582242930691) |
-| 30 | Centro Salud Arroyomolinos | 2020/04/17 | |
+| 30 | Centro Salud (Arroyomolinos) | 2020/04/17 | |
 | 25 | Residencia de Usera | 2020/04/17 | |
 | 26 | UVI 20 (San Martín de Valdeiglesias) | 2020/04/17 | [\[1\]](https://twitter.com/nuria_imeq/status/1253308663927693313) |
 | 30 | Hospital de Fuenlabrada (UCI) | 2020/04/17 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1251568352511889408) |
@@ -130,6 +130,7 @@ $(document).ready(function() {
 | 10 | Clínica Dental Cantero | 2020/05/08 | |
 | 20 | Hospital de Getafe | 2020/05/08 | |
 | 30 | Pequeño comercio: fruterías, carnicerías, peluquerías, tienda de informática (Leganés Norte) | 2020/05/09 | |
+| 15 | Centro Salud (Loranca) | 2020/04/17 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
@@ -154,7 +155,7 @@ $(document).ready(function() {
 | 6200 | Hospital Gregorio Marañón | 2020/04/14+16+17+21+27 y 2020/05/07 | [\[1\]](https://twitter.com/3d_maranon/status/1250010760014630912) [\[2\]](https://twitter.com/uc3mRoboticsLab/status/1252582760893632513) |
 | 50 | Hospital de Alcorcón | 2020/04/14 | |
 | 250 | Residencia Personas Mayores de Villaviciosa de Odón | 2020/04/15 | |
-| 40 | Centro Salud Arroyomolinos | 2020/04/17 | |
+| 40 | Centro Salud (Arroyomolinos) | 2020/04/17 | |
 | 25 | Residencia de Usera | 2020/04/17 | |
 | 100 | Hospital Universitario Santa Cristina | 2020/04/17 | |
 | 100 | Hospital Carlos III | 2020/04/17 | |
