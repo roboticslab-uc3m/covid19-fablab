@@ -130,7 +130,8 @@ $(document).ready(function() {
 | 10 | Clínica Dental Cantero | 2020/05/08 | |
 | 20 | Hospital de Getafe | 2020/05/08 | |
 | 30 | Pequeño comercio: fruterías, carnicerías, peluquerías, tienda de informática (Leganés Norte) | 2020/05/09 | |
-| 15 | Centro Salud (Loranca) | 2020/04/17 | |
+| 15 | Centro Salud (Loranca) | 2020/05/09 | |
+| 150 | Centro de Educación Especial | 2020/05/11 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
@@ -178,5 +179,6 @@ $(document).ready(function() {
 | 5 | Clínica Fisioterapia Charcot (Parla) | 2020/05/04 | |
 | 150 | HM Sanchinarro | 2020/05/07 | |
 | 20 | Hospital de Getafe | 2020/05/08 | |
+| 150 | Centro de Educación Especial | 2020/05/11 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
