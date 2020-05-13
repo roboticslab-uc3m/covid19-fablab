@@ -181,5 +181,6 @@ $(document).ready(function() {
 | 150 | HM Sanchinarro | 2020/05/07 | |
 | 20 | Hospital de Getafe | 2020/05/08 | |
 | 150 | Centro de Educación Especial | 2020/05/11 | |
+| 20 | Clínica Groen Fisioterapia | 2020/05/12 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
