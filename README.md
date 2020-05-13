@@ -132,6 +132,7 @@ $(document).ready(function() {
 | 30 | Pequeño comercio: fruterías, carnicerías, peluquerías, tienda de informática (Leganés Norte) | 2020/05/09 | |
 | 15 | Centro Salud (Loranca) | 2020/05/09 | |
 | 150 | Centro de Educación Especial | 2020/05/11 | |
+| 10 | Pequeño comercio, restaurante... (Parla) | 2020/05/11 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
