@@ -133,6 +133,7 @@ $(document).ready(function() {
 | 15 | Centro Salud (Loranca) | 2020/05/09 | |
 | 150 | Centro de Educación Especial | 2020/05/11 | |
 | 10 | Pequeño comercio, restaurante... (Parla) | 2020/05/11 | |
+| 15 | Cáritas (Alcorcón) | 2020/05/14 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
