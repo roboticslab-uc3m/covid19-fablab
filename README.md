@@ -137,6 +137,7 @@ $(document).ready(function() {
 | 10 | Centro de Salud (Getafe) | 2020/05/15 | |
 | 165 | Hospital Universitario de Albacete | 2020/05/16 | |
 | 250 | Asociación de Voluntarios "Bocatas" |  2020/05/16 | |
+| 2 | Vecino mayor (Leganés) |  2020/05/16 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
