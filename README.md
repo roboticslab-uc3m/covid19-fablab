@@ -134,8 +134,9 @@ $(document).ready(function() {
 | 150 | Centro de Educación Especial | 2020/05/11 | |
 | 10 | Pequeño comercio, restaurante... (Parla) | 2020/05/11 | |
 | 15 | Cáritas (Alcorcón) | 2020/05/14 | |
-| 165 | Hospital Universitario de Albacete | 2020/05/16 | |
 | 10 | Centro de Salud (Getafe) | 2020/05/15 | |
+| 165 | Hospital Universitario de Albacete | 2020/05/16 | |
+| 250 | Asociación de Voluntarios [Bocatas](http://bocats.org) |  2020/05/16 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
@@ -187,5 +188,6 @@ $(document).ready(function() {
 | 20 | Clínica Groen Fisioterapia | 2020/05/12 | |
 | 25 | Limpieza (Universidad Carlos III de Madrid) | 2020/05/14 | |
 | 600 | Hospital Universitario de Albacete | 2020/05/16 | |
+| 100 | Asociación de Voluntarios [Bocatas](http://bocats.org) |  2020/05/16 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
