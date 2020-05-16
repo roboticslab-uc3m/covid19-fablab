@@ -128,13 +128,14 @@ $(document).ready(function() {
 | 1 | Trabajadora social (Leganés) | 2020/05/07 | [\[1\]](https://twitter.com/uc3mRoboticsLab/status/1258451788405133312) |
 | 50 | Escuela Infantil | 2020/05/07 | |
 | 10 | Clínica Dental Cantero | 2020/05/08 | |
-| 20 | Hospital de Getafe | 2020/05/08 | |
+| 53 | Hospital de Getafe | 2020/05/08+15 | |
 | 30 | Pequeño comercio: fruterías, carnicerías, peluquerías, tienda de informática (Leganés Norte) | 2020/05/09 | |
 | 15 | Centro Salud (Loranca) | 2020/05/09 | |
 | 150 | Centro de Educación Especial | 2020/05/11 | |
 | 10 | Pequeño comercio, restaurante... (Parla) | 2020/05/11 | |
 | 15 | Cáritas (Alcorcón) | 2020/05/14 | |
 | 165 | Hospita Universitario de Albacete | 2020/05/16 | |
+| 10 | Centro de Salud (Getafe) | 2020/05/15 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
