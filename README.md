@@ -138,6 +138,7 @@ $(document).ready(function() {
 | 165 | Hospital Universitario de Albacete | 2020/05/16 | |
 | 250 | Asociación de Voluntarios "Bocatas" |  2020/05/16 | |
 | 2 | Vecino mayor (Leganés) |  2020/05/16 | |
+| 20 | Asociación Rumiñahui |  2020/05/17 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
@@ -190,5 +191,6 @@ $(document).ready(function() {
 | 25 | Limpieza (Universidad Carlos III de Madrid) | 2020/05/14 | |
 | 600 | Hospital Universitario de Albacete | 2020/05/16 | |
 | 100 | Asociación de Voluntarios "Bocatas" |  2020/05/16 | |
+| 20 | Asociación Rumiñahui |  2020/05/17 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
