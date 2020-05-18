@@ -141,6 +141,7 @@ $(document).ready(function() {
 | 20 | Asociación Rumiñahui |  2020/05/17 | |
 | 5 | Bomberos (Madrid) |  2020/05/17 | |
 | 5 | Enfermeras de Quirón prevención (Parla) |  2020/05/17 | |
+| 80 | Pacientes oncológicos (Toledo) |  2020/05/18 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
@@ -194,5 +195,6 @@ $(document).ready(function() {
 | 600 | Hospital Universitario de Albacete | 2020/05/16 | |
 | 100 | Asociación de Voluntarios "Bocatas" |  2020/05/16 | |
 | 20 | Asociación Rumiñahui |  2020/05/17 | |
+| 80 | Pacientes oncológicos (Toledo) |  2020/05/18 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
