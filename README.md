@@ -139,6 +139,8 @@ $(document).ready(function() {
 | 250 | Asociación de Voluntarios "Bocatas" |  2020/05/16 | |
 | 2 | Vecino mayor (Leganés) |  2020/05/16 | |
 | 20 | Asociación Rumiñahui |  2020/05/17 | |
+| 5 | Bomberos (Madrid) |  2020/05/17 | |
+| 5 | Enfermeras de Quirón prevención (Parla) |  2020/05/17 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
