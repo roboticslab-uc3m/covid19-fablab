@@ -143,7 +143,7 @@ $(document).ready(function() {
 | 5 | Enfermeras de Quirón prevención (Parla) |  2020/05/17 | |
 | 80 | Pacientes oncológicos (Toledo) |  2020/05/18 | |
 | 5 | Autoescula Transito Vallecas |  2020/05/18 | |
-| 22 | Centro de Salud San Nicasio (Leganés) | 2020/05/21 | |
+| 22 | Centro de Salud San Nicasio (Leganés) | 2020/05/19 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
@@ -190,7 +190,7 @@ $(document).ready(function() {
 | 150 | Residencia San José (Toledo) | 2020/05/03 | |
 | 5 | Clínica Fisioterapia Charcot (Parla) | 2020/05/04 | |
 | 150 | HM Sanchinarro | 2020/05/07 | |
-| 20 | Hospital de Getafe | 2020/05/08 | |
+| 520 | Hospital de Getafe | 2020/05/08+21 | |
 | 150 | Centro de Educación Especial | 2020/05/11 | |
 | 20 | Clínica Groen Fisioterapia | 2020/05/12 | |
 | 25 | Limpieza (Universidad Carlos III de Madrid) | 2020/05/14 | |
@@ -200,3 +200,4 @@ $(document).ready(function() {
 | 80 | Pacientes oncológicos (Toledo) |  2020/05/18 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
+
