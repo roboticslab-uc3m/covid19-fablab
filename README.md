@@ -143,6 +143,7 @@ $(document).ready(function() {
 | 5 | Enfermeras de Quirón prevención (Parla) |  2020/05/17 | |
 | 80 | Pacientes oncológicos (Toledo) |  2020/05/18 | |
 | 5 | Autoescula Transito Vallecas |  2020/05/18 | |
+| 22 | Centro de Salud San Nicasio (Leganés) | 2020/05/21 | |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
