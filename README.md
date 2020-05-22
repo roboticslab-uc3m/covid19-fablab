@@ -144,6 +144,7 @@ $(document).ready(function() {
 | 80 | Pacientes oncológicos (Toledo) |  2020/05/18 | |
 | 5 | Autoescula Transito Vallecas |  2020/05/18 | |
 | 22 | Centro de Salud San Nicasio (Leganés) | 2020/05/19 | |
+| 120 | Estrella ONG (RD Congo) |  2020/05/21 | [\[1\]](https://twitter.com/InfoEstrellaONG/status/1263587776554909707) |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
@@ -198,6 +199,7 @@ $(document).ready(function() {
 | 100 | Asociación de Voluntarios "Bocatas" |  2020/05/16 | |
 | 20 | Asociación Rumiñahui |  2020/05/17 | |
 | 80 | Pacientes oncológicos (Toledo) |  2020/05/18 | |
+| 800 | Estrella ONG (RD Congo) |  2020/05/21 | [\[1\]](https://twitter.com/InfoEstrellaONG/status/1263587776554909707) |
 | ======== | ========= | ===== | ==== |
 | | | | |
 
