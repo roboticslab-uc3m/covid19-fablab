@@ -189,7 +189,7 @@ $(document).ready(function() {
 | 20 | Asociación Amar Dragoste (Leganés) | 2020/04/30 | |
 | 150 | Residencia San José (Toledo) | 2020/05/03 | |
 | 5 | Clínica Fisioterapia Charcot (Parla) | 2020/05/04 | |
-| 150 | HM Sanchinarro | 2020/05/07 | |
+| 160 | HM Sanchinarro | 2020/05/07+21 | |
 | 520 | Hospital de Getafe | 2020/05/08+21 | |
 | 150 | Centro de Educación Especial | 2020/05/11 | |
 | 20 | Clínica Groen Fisioterapia | 2020/05/12 | |
